@@ -1,0 +1,650 @@
+Mol,Med,Voie,Cible,Indication,Code_LES,Code_ATU/Post_ATU/AAC/AAP/CPC,Code_UCD
+10 PEPTIDES SYNTHETIQUES CIBLANT 5 ANTIGENES TUMORAUX,TEDOPI,,Bronchopulmonaire,"En monothérapie pour des patients adultes HLA-A2 atteints de cancer bronchique non à petites cellules, localement avancé (non opérable et non éligible à la radiothérapie) ou métastatique sans altération des gènes EGFR et ALK : en 3ème ligne de traitement après échec d’une 1ère ligne de chimiothérapie puis d’une 2ème ligne de traitement avec un inhibiteur de point de contrôle immunitaire administré en monothérapie pendant au moins 12 semaines",,NOSE201,9002772
+10 PEPTIDES SYNTHÉTIQUES CIBLANT 5 ANTIGÈNES TUMORAUX,TEDOPI,SC,Bronchopulmonaire,"En monothérapie pour des patients adultes HLA-A2 atteints de cancer bronchique non à petites cellules, localement avancé (non opérable et non éligible à la radiothérapie) ou métastatique sans altération des gènes EGFR et ALK : en 3ème ligne de traitement après échec d’une 1ère ligne de chimiothérapie puis d’une 2ème ligne de traitement avec un inhibiteur de point de contrôle immunitaire administré en monothérapie pendant au moins 12 semaines",,NOSE201,9002772
+ABEMACICLIB,VERZENIOS,,Sein,"Chez les femmes dans le traitement du cancer du sein localement avancé ou métastatique, RH+/HER2- en association avec un inhibiteur de l’aromatase ou avec le fulvestrant comme hormonothérapie en 1ère intention, ou chez les femmes ayant été traitées antérieurement par hormonothérapie. Chez les femmes en pré/périménopause, l’hormonothérapie doit être associée à un agoniste de la LH-RH.",,,
+ABIRATERONE,ZYTIGA,,Uro/néphrologie,"En association avec la prednisone ou la prednisolone dans le traitement du cancer métastatique de la prostate hormonosensible (mHSPC) à haut risque nouvellement diagnostiqué chez les hommes adultes, en association avec un traitement par suppression androgénique (ADT).",,,
+ABIRATÉRONE,ZYTIGA,PO,Uro/néphrologie,"En association avec la prednisone ou la prednisolone dans le traitement du cancer métastatique de la prostate hormonosensible (mHSPC) à haut risque nouvellement diagnostiqué chez les hommes adultes, en association avec un traitement par suppression androgénique (ADT).",,,
+ABÉMACICLIB,VERZENIOS,PO,Sein,"Chez les femmes dans le traitement du cancer du sein localement avancé ou métastatique, RH+/HER2- en association avec un inhibiteur de l’aromatase ou avec le fulvestrant comme hormonothérapie en 1ère intention, ou chez les femmes ayant été traitées antérieurement par hormonothérapie. Chez les femmes en pré/périménopause, l’hormonothérapie doit être associée à un agoniste de la LH-RH.",,,
+ACALABRUTINIB,CALQUENCE,PO,Hématologique,Chez des patients adultes atteints d’une leucémie lymphoïde chronique (LLC) en monothérapie chez les patients intolérants ou inéligibles à un traitement par ibrutinib.,,CACAL02,
+ADAGRASIB,ADAGRASIB,PO,Digestif,"Patients adultes atteints d’un cancer colorectal métastatique avec mutation KRAS G12C présentant une progression de leur maladie précédemment traités en situation métastatique par l’ensemble des traitements disponibles comprenant les chimiothérapies à base de fluoropyrimidine, d’oxaliplatine et d’irinotecan, les agents anti-VEGF ainsi qu’un traitement par trifluridine/tipiracil ou par régorafénib, ou qui ne sont pas éligibles à ces traitements.",,NADAG02,9003227
+ADAGRASIB,KRAZATI,PO,Bronchopulmonaire,En monothérapie dans le cancer du poumon NAPC avancé chez l'adulte avec mutation KRAS G12C en cas de progression de la maladie après au moins un traitement systémique.,,,
+AFATINIB,GIOTRIF,PO,Bronchopulmonaire,"En monothérapie dans le traitement du cancer bronchique non à petites cellules (CBNPC), de type épidermoïde, localement avancé ou métastatiqueen progression pendant ou après une chimiothérapie à base de platine.",,,
+AFLIBERCEPT,ZALTRAP,IV,Digestif,En association avec la chimiothérapie irinotécan/5-fluorouracile/acide folinique (FOLFIRI) est indiqué chez les adultes atteints d'un cancer colorectal métastatique (CCRM) résistant ou ayant progressé après un traitement à base d'oxaliplatine.,I000386,,"9394992 (100 mg)
+9395000 (200 mg)"
+ALDESLEUKINE,PROLEUKIN,IV,Uro/néphrologie,Traitement de l'adénocarcinome rénal métastatique,,,
+ALECTINIB,ALECENSA,PO,Bronchopulmonaire,En monothérapie dans le traitement du cancer bronchique non à petites cellules (CBNPC) avancé avec un réarrangement du gène anaplastic lymphoma kinase (ALK-positif) chez les patients adultes préalablement traités par crizotinib.,,,
+ALEMTUZUMAB,CAMPATH,IV,Hématologique,Traitement de la leucémie lymphoïde chronique à cellules B (LLC-B),,NALEM03,9386952
+ALPELISIB,PIQRAY,PO,Sein,"En association avec le fulvestrant pour le traitement d’hommes et de femmes ménopausées atteints d’un cancer du sein localement avancé ou métastatique :
+ - porteurs de la mutation PIK3CA
+ - RH positif
+ - HER2-négatif
+ - après échec d’au moins 2 lignes de traitements en situation métastatique incluant un anti-aromatase et un inhibiteur CDK4/6 sauf s'ils n'étaient pas éligibles à ce type de traitement. Si le ou la patient(e) n’est pas éligible à au moins 2 lignes des traitements disponibles en situation métastatique, une justification devra être apportée pour l’accès à alpelisib,
+ - ne présentant pas de propagation viscérale symptomatique,
+ - ne présentant pas de cancer du sein inflammatoire.",,,
+ALTRETAMINE,HEXASTAT,,Gynécologique,Traitement de 2ème ligne du cancer de l'ovaire et du cancer bronchique à petites cellules,,,
+ALTRÉTAMINE,HEXASTAT,PO,Gynécologique,Traitement de 2ème ligne du cancer de l'ovaire et du cancer bronchique à petites cellules,,,
+AMIVANTAMAB,AMIVANTAMAB,IV,Bronchopulmonaire,"AMIVANTAMAB est indiqué en monothérapie dans le traitement des patients adultes atteints d’un cancer bronchique non à petites cellules (CBNPC) métastatique avec mutations activatrices du récepteur du facteur de croissance épidermique (EGFR) par insertion dans l’exon 20, après échec d’une chimiothérapie à base de sels de platine.",,CAMIV01,
+AMIVANTAMAB,RYBREVANT,IV,Bronchopulmonaire,"En monothérapie dans le traitement des patients adultes atteints d’un cancer bronchique non à petites cellules (CBNPC) avancé avec mutations activatrices du récepteur du facteur de croissance épidermique (EGFR) par insertion dans l’exon 20, après échec d’un traitement à base de sels de platine",,,
+ANAGRELIDE,XAGRID,,Hématologique,"Réduction du nombre élevé de plaquettes chez les patients à risque atteints de thrombocytémie essentielle (par un ou plusieurs des critères suivants : > 60 ans d'âge, ou numération plaquettaire > 1000 x 109/L, ou antécédents thrombohémorragiques), présentant une intolérance à leur traitement actuel ou dont le nombre élevé de plaquettes n'est pas réduit à un niveau acceptable par leur traitement actuel.",,,
+ANAGRÉLIDE,XAGRID,PO,Hématologique,"Réduction du nombre élevé de plaquettes chez les patients à risque atteints de thrombocytémie essentielle (par un ou plusieurs des critères suivants : > 60 ans d'âge, ou numération plaquettaire > 1000 x 109/L, ou antécédents thrombohémorragiques), présentant une intolérance à leur traitement actuel ou dont le nombre élevé de plaquettes n'est pas réduit à un niveau acceptable par leur traitement actuel.",,,
+ANASTROZOLE,ARIMIDEX,PO,Sein,"Traitement du cancer du sein avancé à récepteurs hormonaux positifs chez la femme ménopausée , 
+- Traitement adjuvant du cancer du sein invasif à récepteurs hormonaux positifs à un stade précoce chez la femme ménopausée ,
+- Traitement adjuvant du cancer du sein invasif à récepteurs hormonaux positifs à un stade précoce chez la femme ménopausée ayant reçu untraitement adjuvant par le tamoxifène pendant 2 à 3 ans.",,,
+APALUTAMIDE,ERLEADA,PO,Uro/néphrologie,"Traitement des hommes adultes atteints d’un cancer de la prostate métastatique hormonosensible (mHSPC) de haut volume, pour lesquels un traitement par acétate d’abiratérone + prednisone ou prednisolone, ou par docétaxel ne peut être considéré, en association avec un traitement par suppression androgénique (ADT)",,CAPAL02,
+ARSENIC TRIOXYDE,TRISENOX,IV,Hématologique,"Induction de la rémission et la consolidation chez des patients adultes atteints de leucémie promyélocytaire aiguë (LPA) en rechute/réfractaire (le traitement antérieur doit avoir comporté un rétinoïde et une chimiothérapie), caractérisée par la présence de la translocation t(15,17) et/ou la présence du gène PML/RAR-alpha (Pro-Myelocytic Leukaemia/Retinoic Acid Receptor-alpha).",I000354,,"9453766
+9449730
+9000202
+9242911
+9453938
+"
+ASCIMINIB,SCEMBLIX,PO,Hématologique,"Monothérapie de la leucémie myéloïde chronique (LMC) en phase chronique sans mutation T315I, précédemment traitée par tous les inhibiteurs de tyrosine kinase (ITK) disponibles sur le marché et ayant rechuté, ou réfractaire ou intolérance aux ITK d'après l'évaluation du médecin, ou pour qui le traitement par un ou plusieurs ITK disponibles est contre-indiqué.",,NASCI07,
+ASPARAGINASE,KIDROLASE,IV,Hématologique,Traitement des leucémies aiguës lymphoblastiques.,,,
+ASPARAGINASE RECOMBINANTE,SPECTRILA,IV,Hématologique,Polychimiothérapie anticancéreuse dans le traitement de la leucémie aiguë lymphoblastique (LAL) chez les enfants et adolescents de la naissance à 18 ans et chez les adultes.,,,
+ATEZOLIZUMAB,ATEZOLIZUMAB,IV,Sein,"Atezolizumab, en association au nab-paclitaxel, est indiqué dans le traitement des patients adultes atteints d’un cancer du sein triple négatif localement avancé non résécable ou métastatique, dont les tumeurs présentent une expression de PD-L1 ≥ 1% et n’ayant pas précédemment reçu de chimiothérapie en situation métastatique.",,CATEZ01,
+ATEZOLIZUMAB,TECENTRIQ,IV,Digestif,"En association au bevacizumab dans le traitement des patients adultes atteints d'un carcinome hépatocellulaire (CHC) avancé ou non résécable, n’ayant pas reçu de traitement systémique antérieur uniquement chez les patients avec une fonction hépatique préservée (stade Child-Pugh A), un score ECOG 0 ou 1, et non éligibles aux traitements locorégionaux ou en échec à l’un de ces traitements",I000569,,"9000225 (840 mg)
+9431262 (1200 mg)"
+AVAPRITINIB,AYVAKYT,PO,Digestif,En monothérapie dans le traitement des patients adultes atteints de tumeurs stromales gastro-intestinale (GIST) inopérables ou métastatiques présentant une mutation D842V du récepteur du facteur de croissance derivé des plaquettes alpha (PDGFRA),,CAVAP01,"9000652 (100 mg)
+9000792 (200 mg)
+9000793 (300 mg)"
+AVELUMAB,BAVENCIO,IV,Uro/néphrologie,"En association avec axitinib, dans le traitement de première ligne des patients adultes atteints de carcinome à cellules rénales (CCR) à un stade avancé, uniquement à cellules claires ou comportant un contingent de cellules claires",,,
+AXICABTAGENE CILOLEUCEL,YESCARTA,IV,Hématologique,"Traitement des patients adultes atteints de lymphome de haut grade à cellules B (LHGCB) éligibles à une stratégie d’autogreffe de CSH, et les patients atteints de lymphome diffus à grandes cellules B (LDGCB) et LHGCB et non éligibles à une stratégie d’autogreffe de CSH, ayant rechuté dans les 12 mois après la fin de la première ligne de chimio-immunothérapie, ou qui y sont réfractaires",,CAXIC02,9440456
+AXITINIB,INLYTA,PO,Uro/néphrologie,Traitement des patients adultes atteints de cancer du rein avancé (RCC) après échec d’un traitement antérieur par sunitinib ou cytokine,,,
+AZACITIDINE,ONUREG,PO,Hématologique,"ONUREG est indiqué pour le traitement de maintenance chez les patients adultes atteints de leucémie aiguë myéloïde (LAM) ayant obtenu une rémission complète (RC) ou une rémission complète avec récupération incomplète de la numération formule sanguine (RCi) après une thérapie d'induction avec ou sans traitement de consolidation, et qui ne sont pas éligibles à une greffe de cellules souches hématopoïétiques (GCSH).",,,
+AZACITIDINE,VIDAZA,SC,Hématologique,"Traitement des patients adultes non éligibles pour une greffe de cellules souches hématopoïétiques et présentant une leucémie aiguë myéloblastique (LAM) avec 20 à 30 % de blastes et dysplasie de lignées multiples, selon la classification de l'Organisation mondiale de la santé (OMS)",I000374,,
+BELANTAMAB MAFODOTIN,BLENREP,IV,Hématologique,"En monothérapie pour le traitement des patients adultes atteints de myélome multiple, ayant reçu au moins 4 traitements antérieurs et dont la maladie est réfractaire à au moins un inhibiteur du protéasome, un agent immunomodulateur et un anticorps monoclonal anti-CD38, et dont la maladie a progressé lors du dernier traitement.",,,
+BELINOSTAT,BELEODAQ,IV,Hématologique,Lymphome T périphérique en rechute ou réfractaire,,NBELI01,9445614
+BENDAMUSTINE,LEVACT,IV,Hématologique,Traitement de première ligne de la leucémie lymphoïde chronique (stade Binet B ou C) des patients chez qui une polychimiothérapie comportant de la fludarabine n'est pas appropriée.,I000224,,
+BEVACIZUMAB,ABEVMY,,Cf. médicament de référence,Autres indications => Voir Avastin (médicament biologique de référence),Cf. médicament de référence,,"9001247 (ABEVMY FL16ML)
+9001249 (ABEVMY FL4ML)"
+BEVACIZUMAB,ALYMSYS,,Cf. médicament de référence,Autres indications => Voir Avastin (médicament biologique de référence),Cf. médicament de référence,,"9001120 (ALYMSYS FL16ML)
+9001121 (ALYMSYS FL4ML)"
+BEVACIZUMAB,AVASTIN,,Sein,"AVASTIN en association au paclitaxel, est indiqué en traitement de première ligne, chez des patients adultes atteints de cancer du sein métastatique.",I000034,,
+BEVACIZUMAB,AYBINTIO,,Cf. médicament de référence,Autres indications => Voir Avastin (médicament biologique de référence),Cf. médicament de référence,,"9000523 (AYBINTIO FL16ML)
+9000524 (AYBINTIO FL4ML)"
+BEVACIZUMAB,MVASI,,Cf. médicament de référence,Autres indications => Voir Avastin (médicament biologique de référence),Cf. médicament de référence,,"9000099 (MVASI FL16ML)
+9000100 (MVASI FL4ML)"
+BEVACIZUMAB,OYAVAS,,Cf. médicament de référence,Autres indications => Voir Avastin (médicament biologique de référence),Cf. médicament de référence,,"9001270 (OYAVAS FL 4ML)
+9001271 (OYAVAS FL 16ML)"
+BEVACIZUMAB,VEGZELMA,,Cf. médicament de référence,Autres indications => Voir Avastin (médicament biologique de référence),Cf. médicament de référence,,"900265 (VEGZELMA FL 4ML)
+9002652 (VEGZELMA FL 16ML)"
+BEVACIZUMAB,ZIRABEV,,Cf. médicament de référence,Autres indications => Voir Avastin (médicament biologique de référence),Cf. médicament de référence,,"9000024 (ZIRABEV FL16ML)
+9000025 (ZIRABEV FL4ML)"
+BEXAROTENE,TARGRETIN,,Hématologique,"Traitement des manifestations cutanées des lymphomes cutanés T
+ épidermotropes (LCT) de l’adulte, au stade avancé et réfractaires à au moins un traitement systémique",,,
+BEXAROTÈNE,TARGRETIN,PO,Hématologique,"Traitement des manifestations cutanées des lymphomes cutanés T
+ épidermotropes (LCT) de l’adulte, au stade avancé et réfractaires à au moins un traitement systémique",,,
+BICALUTAMIDE,CASODEX,PO,Uro/néphrologie,"Traitement du cancer de la prostate localement avancé, à haut risque de progression de la maladie, soit en traitement seul soit en traitement adjuvant à la prostatectomie radicale ou à la radiothérapie",,,
+BINIMETINIB,MEKTOVI,,Dermatologique,En association à l’encorafénib dans le traitement de patients adultes atteints de mélanome non résécable ou métastatique porteur d'une mutation BRAF V600,,,
+BINIMÉTINIB,MEKTOVI,PO,Dermatologique,En association à l’encorafénib dans le traitement de patients adultes atteints de mélanome non résécable ou métastatique porteur d'une mutation BRAF V600,,,
+BLEOMYCINE,BLÉOMYCINE BELLON,,Dermatologique,Traitement des carcinomes épidermoïdes,,,
+BLINATUMOMAB,BLINCYTO,IV,Hématologique,"BLINCYTO est indiqué en monothérapie dans le traitement des patients pédiatriques à partir de l’âge de 1 an, présentant une LAL à précurseurs B exprimant le CD19 avec chromosome Philadelphie négatif en première rechute à haut risque dans le cadre du traitement de consolidation",I000587,,9412129
+BLÉOMYCINE,BLEOMYCINE BELLON,,Dermatologique,Traitement des carcinomes épidermoïdes,,,
+BLÉOMYCINE,BLÉOMYCINE BELLON,"IM
+ IV
+ SC",Dermatologique,Traitement des carcinomes épidermoïdes,,,
+BMS-986158,BMS-986158,PO,Autre,Carcinome de la ligne médiane NUT : ayant échappé à une chimiothérapie par sels de platine et en présence d'une mutation BRD4,,NBMS901,"9001898 (0,25 mg)
+9001899 (2 mg)"
+BORTEZOMIB,VELCADE,,Hématologique,"En association à la dexaméthasone, est indiqué pour le traitement des patients adultes atteints de myélome multiple en progression, ayant reçu au moins un traitement antérieur et ayant déjà bénéficié ou étant inéligibles à une greffe de cellules souches hématopoïétiques.",I000363,,
+BORTÉZOMIB,VELCADE,IV,Hématologique,"En association à la dexaméthasone, est indiqué pour le traitement des patients adultes atteints de myélome multiple en progression, ayant reçu au moins un traitement antérieur et ayant déjà bénéficié ou étant inéligibles à une greffe de cellules souches hématopoïétiques.",I000363,,
+BOSUTINIB,BOSULIF,PO,Hématologique,Traitement des patients adultes atteints de leucémie myéloïde chronique à chromosome Philadelphie positif (LMC Ph+) en phase chronique (PC) nouvellement diagnostiquée.,,,
+BOTENSILIMAB,BOTENSILIMAB,IV,Digestif,Cancer colorectal (avec mutation KRAS G12C),,NBOTE01,9003718
+"BRENTUXIMAB 
+ VEDOTIN",ADCETRIS,IV,Hématologique,"Traitement du lymphome hodgkinien (LH) CD30 positif de stade III chez les patients adultes en première ligne, en association avec la doxorubicine, la vinblastine et la dacarbazine (AVD)",,,
+BREXUCABTAGENE AUTOLEUCEL,TECARTUS,IV,Hématologique,"Traitement des patients adultes âgés de 26 ans et plus atteints de leucémie aiguë lymphoblastique (LAL) de la lignée B réfractaire ou en rechute en dernier recours : 
+- Phi + après au moins deux lignes de traitement 
+- Phi - après au moins deux lignes de traitement et en échec ou non éligibles au blinatumomab et à l’inotuzumab",,CKTEX02,9000804
+BRIGATINIB,ALUNBRIG,PO,Bronchopulmonaire,En monothérapie pour le traitement des patients adultes atteints d’un cancer bronchique non à petites cellules (CBNPC) avancé présentant un réarrangement du gène ALK (ALK positif) et prétraités par crizotinib.,,,
+BUSULFAN,BUSILVEX,IV,Hématologique,Busulfan administré à la suite de fludarabine (FB) est indiqué comme traitement de conditionnement préalable à une greffe de cellules souches hématopoïétiques (CSH) chez l'adulte éligible à un conditionnement à intensité réduite (RIC),I000045,,
+BUSULFAN,MYLERAN,PO,Hématologique,"Traitement de la leucémie myéloïde chronique en cas de résistance ou
+ de contre-indication aux autres traitements",,,
+BÉVACIZUMAB,ABEVMY,IV,Cf. médicament de référence,Autres indications => Voir Avastin (médicament biologique de référence),Cf. médicament de référence,,"9001247 (ABEVMY FL16ML)
+9001249 (ABEVMY FL4ML)"
+BÉVACIZUMAB,ALYMSYS,IV,Cf. médicament de référence,Autres indications => Voir Avastin (médicament biologique de référence),Cf. médicament de référence,,"9001120 (ALYMSYS FL16ML)
+9001121 (ALYMSYS FL4ML)"
+BÉVACIZUMAB,AVASTIN,IV,Sein,"AVASTIN en association au paclitaxel, est indiqué en traitement de première ligne, chez des patients adultes atteints de cancer du sein métastatique.",I000034,,
+BÉVACIZUMAB,AYBINTIO,IV,Cf. médicament de référence,Autres indications => Voir Avastin (médicament biologique de référence),Cf. médicament de référence,,"9000523 (AYBINTIO FL16ML)
+9000524 (AYBINTIO FL4ML)"
+BÉVACIZUMAB,MVASI,IV,Cf. médicament de référence,Autres indications => Voir Avastin (médicament biologique de référence),Cf. médicament de référence,,"9000099 (MVASI FL16ML)
+9000100 (MVASI FL4ML)"
+BÉVACIZUMAB,OYAVAS,IV,Cf. médicament de référence,Autres indications => Voir Avastin (médicament biologique de référence),Cf. médicament de référence,,"9001270 (OYAVAS FL 4ML)
+9001271 (OYAVAS FL 16ML)"
+BÉVACIZUMAB,VEGZELMA,IV,Cf. médicament de référence,Autres indications => Voir Avastin (médicament biologique de référence),Cf. médicament de référence,,"900265 (VEGZELMA FL 4ML)
+9002652 (VEGZELMA FL 16ML)"
+BÉVACIZUMAB,ZIRABEV,IV,Cf. médicament de référence,Autres indications => Voir Avastin (médicament biologique de référence),Cf. médicament de référence,,"9000024 (ZIRABEV FL16ML)
+9000025 (ZIRABEV FL4ML)"
+CABAZITAXEL,JEVTANA,IV,Uro/néphrologie,"En association à la prednisone ou à la prednisolone est indiqué dans le traitement des patients avec un cancer de la prostate métastatique, hormonorésistant, précédemment traités par un traitement à base de docétaxel.",I000203,,"9000735 (CABAZITAXEL ACCORD)
+9000710 (CABAZITAXEL EVER PHARMA 45 mg)
+9000712 (CABAZITAXEL EVER PHARMA 50 mg)
+9000713 (CABAZITAXEL EVER PHARMA 60 mg)
+9000412 (CABAZITAXEL REDDY)
+9000612 (CABAZITAXEL TEVA TVS)
+9002572 (CABAZITAXEL TEVA TVP)
+9001492 (CABAZITAXEL ZENTIVA)
+9365950 (JEVTANA)
+9002281 (CABAZITAXEL VIA)
+9003239 (CABAZITAXEL SANDOZ 45 mg)
+9003240 (CABAZITAXEL SANDOZ 60 mg)"
+CABOZANTINIB,CABOMETYX,PO,Uro/néphrologie,En association avec le nivolumab traitement de première ligne du carcinome à cellules rénales avancé chez l’adulte,,,
+CAPECITABINE,XELODA,,Sein,"En association avec le docétaxel dans le traitement du cancer du sein localement avancé ou métastatique, après échec à une chimiothérapie cytotoxique. La chimiothérapie antérieure doit avoir comporté une anthracycline.",,,
+CAPMATINIB,CAPMATINIB,PO,Bronchopulmonaire,"Monothérapie dans le cancer bronchique non à petites cellules (CBNPC), localement avancé ou métastatique présentant une mutation de l’exon-14 de c-MET ayant déjà reçu au moins une première ligne de traitement par chimiothérapie ± immunothérapie",,NCAPM02,
+CAPMATINIB,TABRECTA,PO,Bronchopulmonaire,"En monothérapie pour le traitement des patients adultes présentant un cancer bronchique non à petites cellules (CBNPC), localement avancé ou métastatique présentant une mutation de l’exon-14 de c-MET ayant déjà reçu au moins une première ligne de traitement par chimiothérapie ± immunothérapie",,CCAPM01,"9001504
+9002820
+9002821
+9451282"
+CAPÉCITABINE,XELODA,PO,Sein,"En association avec le docétaxel dans le traitement du cancer du sein localement avancé ou métastatique, après échec à une chimiothérapie cytotoxique. La chimiothérapie antérieure doit avoir comporté une anthracycline.",,,
+CARBOPLATINE,CARBOPLATINE,IV,Autre,"Carcinome de l'ovaire d'origine épithéliale.
+Carcinome bronchique à petites cellules.
+Carcinome épidermoïde des voies aérodigestives supérieures",,,
+CARFILZOMIB,KYPROLIS,IV,Hématologique,"Kyprolis en association avec le daratumumab et la dexaméthasone, avec le lénalidomide et la dexaméthasone, ou avec la dexaméthasone seule, est indiqué dans le traitement du myélome multiple chez les patients adultes qui ont reçu au moins un traitement antérieur",I000586,,"9413838 (60 mg)
+9420732 (10 mg)
+9420749 (30 mg)"
+CARMUSTINE,BICNU,IV,SNC,"Utilisé seul ou en association dans le traitement des :
+· tumeurs cérébrales primitives ou secondaires,
+· myélomes multiples,
+· lymphomes hodgkiniens,
+· lymphomes non hodgkiniens,
+· mélanomes,
+· conditionnement préalable à une greffe autologue de cellules souches hématopoïétiques (GCSH) pour le traitement des maladies hématologiques malignes (Maladie de Hodgkin’s / lymphome Non-Hodgkinien).",,,
+CARMUSTINE,CARMUSTINE OBVIOUS,IV,Hématologique,"Traitement des néoplasmes malins suivants en monothérapie ou en combinaison avec d’autres agents antinéoplasiques et/ou d’autres mesures thérapeutiques (radiothérapie, chirurgie): 
+- Tumeurs cérébrales (glioblastome, gliomes du tronc cérébral, medulloblastome, astrocytome et épendymome), tumeurs cérébrales métastatiques,
+- Thérapie secondaire dans le traitement du lymphome non hodgknien et de la maladie de Hodgkin.
+- Tumeurs du tractus gastro-intestinal,
+- Mélanome malin en association avec d'autres médicaments antinéoplasiques
+- Comme conditionnement avant une greffe autologue de cellules souches hématopoïétiques (CSH) en cas de malignités hématologiques (maladie de Hodgkin/lymphome non hodgkinien)",,,
+CARMUSTINE,GLIADEL,Implant,SNC,GLIADEL Implant est indiqué en traitement d'appoint de la chirurgie chez les patients adultes atteints d’un glioblastome multiforme récurrent attesté histologiquement et pour lequel une résection chirurgicale est indiquée,I000152,,9212264
+CB-103,CB-103,PO,Tête et cou,Adénocarcinome éthmoïdal,,NCB1001,9002688
+CELLULES AUTOLOGUES CD3+ TRANSDUITES ANTI CD19,KTE-X19,IV,Hématologique,Leucémie aigüe lymphoblastique,,NCELL01,
+CELLULES AUTOLOGUES CD3+ TRANSDUITES ANTI CD20,KTE-X19,IV,Hématologique,Leucémie aigüe lymphoblastique (LAL) à précurseurs B en rechute ou réfractaire chez l'adulte,,NCELL02,
+CEMIPLIMAB,LIBTAYO,IV,Bronchopulmonaire,"En association avec une chimiothérapie à base de platine est indiqué pour le traitement de première intention des patients adultes atteints d’un CBNPC exprimant- PDL1 (dans ≥ 1 % des cellules tumorales), sans aberrations EGFR, ALK ou ROS1, qui présentent : CBNPC localement avancé qui ne sont pas candidats à une chimioradiothérapie définitive, ou CBNPC métastatique",,,
+CERITINIB,ZYKADIA,,Bronchopulmonaire,En monothérapie en première ligne de traitement du cancer bronchique non à petites cellules (CBNPC) avancé avec réarrangement du gène anaplastic lymphoma kinase (ALKpositif) chez les patients adultes.,,,
+CETUXIMAB,ERBITUX,,Digestif,Traitement des patients présentant un cancer colorectal métastatique avec gène RAS de type sauvage (K-RAS et N-RAS non muté) exprimant le récepteur du facteur de croissance épidermique (EGFR) en association à une chimiothérapie à base d’irinotecan,I000105,,"9260599
+9301111 (Erbitux 500 mg)
+9301128 (Erbitux 100 mg)"
+CHLORAMBUCIL,CHLORAMINOPHENE,,Hématologique,Traitement de la leucémie lymphoïde chronique,,,
+CHLORAMBUCIL,CHLORAMINOPHÈNE,PO,Hématologique,Traitement de la leucémie lymphoïde chronique,,,
+CILTACABTAGENE AUTOLEUCEL,CARVYKTI,,Hématologique,"Traitement des patients adultes atteints d'un myélome multipe en rechute ou réfractaire qui ont déja reçus au moins trois traitements dont un immunomodulateur, un inhibiteur du protéasome, et un anticorps anti-CD38, et qui ont connu une progression de la maladie lors du dernier traitement.",,CCILT01,9002445
+CILTACABTAGÈNE AUTOLEUCEL,CARVYKTI,IV,Hématologique,"Traitement des patients adultes atteints d'un myélome multipe en rechute ou réfractaire qui ont déja reçus au moins trois traitements dont un immunomodulateur, un inhibiteur du protéasome, et un anticorps anti-CD38, et qui ont connu une progression de la maladie lors du dernier traitement.",,CCILT01,9002445
+CISPLATINE,CISPLATINE,IV,Gynécologique,En polychimiothérapie en association avec d'autres médicaments antinéoplasiques dans les cancers de l'endomètre,,,
+CLADRIBINE,LEUSTATINE,IV,Hématologique,Traitement de la leucémie à tricholeucocytes,I000223,,9168014
+CLADRIBINE,LITAK,SC,Hématologique,Traitement de la leucémie à tricholeucocytes,I000227,,9271456
+CLOFARABINE,EVOLTRA,IV,Hématologique,Traitement de la leucémie aiguë lymphoblastique (LAL) chez des patients pédiatriques en rechute ou réfractaires après au moins deux lignes de traitement et pour lesquels aucune alternative thérapeutique ne permet d’envisager une réponse durable,,,
+COBIMETINIB,COTELLIC,,Dermatologique,En association au vemurafenib dans le traitement des patients adultes atteints d’un mélanome non résécable ou métastatique porteur d’une mutation BRAF V600,,,
+COBIMÉTINIB,COTELLIC,PO,Dermatologique,En association au vemurafenib dans le traitement des patients adultes atteints d’un mélanome non résécable ou métastatique porteur d’une mutation BRAF V600,,,
+CRENOLANIB,CRENOLANIB,PO,Hématologique,Leucémie aiguë myéloïde,,NCREN01,9000779
+CRISANTASPASE,ENRYLAZE,IV,Hématologique,Traitement de la leucémie lymphoblastique aiguë et du lymphome lymphoblastique chez les patients adultes et pédiatriques (1 mois et plus) qui ont développé une hypersensibilité ou une inactivation silencieuse à l'asparaginase dérivée d'E. coli.,,,
+CRIZOTINIB,CRIZOTINIB,PO,Autre,"Indication pédiatrique dans la tumeur myofibroblastique inflammatoire, en rechute ou réfractaire, ALK-positif , et chez les patients ne pouvant avaler les gélules ou nécessitant une adaptation de dose particulière.",,NCRIZ03,9390793
+CRIZOTINIB,XALKORI,PO,Bronchopulmonaire,En première ligne de traitement des patients adultes ayant un cancer du poumon non à petites cellules (CPNPC) (ALK)-positif et avancé.,,,"9389258 (200 mg)
+9389264 (250 mg)"
+CYCLOPHOSPHAMIDE,ENDOXAN,IV,Hématologique,"A forte dose, conditionnement des allo- et autogreffes médullaires",,,
+CYTARABINE,ARACYTINE,IV,Hématologique,Pour l’induction de la rémission dans la leucémie myéloïde aiguë de l’adulte et pour d’autres leucémies aiguës de l’adulte et de l’enfant,,,
+CÉRITINIB,ZYKADIA,PO,Bronchopulmonaire,En monothérapie en première ligne de traitement du cancer bronchique non à petites cellules (CBNPC) avancé avec réarrangement du gène anaplastic lymphoma kinase (ALKpositif) chez les patients adultes.,,,
+CÉTUXIMAB,ERBITUX,IV,Digestif,Traitement des patients présentant un cancer colorectal métastatique avec gène RAS de type sauvage (K-RAS et N-RAS non muté) exprimant le récepteur du facteur de croissance épidermique (EGFR) en association à une chimiothérapie à base d’irinotecan,I000105,,"9260599
+9301111 (Erbitux 500 mg)
+9301128 (Erbitux 100 mg)"
+DABRAFENIB,DABRAFÉNIB,,Bronchopulmonaire,Adénocarcinome bronchique métastatique,,NDABR09,9000385
+DABRAFENIB,TAFINLAR,,Dermatologique,"En association au trametinib est indiqué dans le traitement adjuvant des patients adultes atteints d’un mélanome de stade III porteur d’une mutation BRAF V600, après résection complète ",,,
+DABRAFÉNIB,DABRAFENIB,,Bronchopulmonaire,Adénocarcinome bronchique métastatique,,NDABR09,9000385
+DABRAFÉNIB,DABRAFÉNIB,PO,Bronchopulmonaire,Adénocarcinome bronchique métastatique,,NDABR09,9000385
+DABRAFÉNIB,TAFINLAR,PO,Dermatologique,"En association au trametinib est indiqué dans le traitement adjuvant des patients adultes atteints d’un mélanome de stade III porteur d’une mutation BRAF V600, après résection complète ",,,
+DACARBAZINE,DETICENE,IV,Dermatologique,Traitement de certains cancers affectant la peau (mélanomes malins) hors traitement de recours après échappement des immunothérapies et/ou thérapies dites ciblées selon le statut B-RAF ,,,
+DACOMITINIB,VIZIMPRO,PO,Bronchopulmonaire,En monothérapie pour le traitement de première intention des patients adultes atteints d’un cancer du poumon non à petites cellules (CPNPC) localement avancé ou métastatique avec mutations activatrices du récepteur du facteur de croissance épidermique (EGFR).,,,
+DACTINOMYCINE,COSMEGEN,IV,Autre,"Néphroblastome ou tumeur de Wilms.
+Rhabdomyosarcome.
+Carcinome des testicules.
+Sarcome d'Ewing.
+Tumeur trophoblastique gestationnelle",,,
+DARATUMUMAB,DARZALEX,IV,Hématologique,"Darzalex est indiqué en combinaison avec le lenalidomide et la dexaméthasone, ou le bortezomib et la dexaméthasone, pour le traitement de patients adultes atteints de myélome multiple ayant reçu au moins une ligne de traitement au préalable",I000465,,"9417871 (400 mg)
+9417888 (100 mg)"
+DAROLUTAMIDE,NUBEQA,PO,Uro/néphrologie,Traitement du cancer de la prostate métastatique hormono-sensible en association avec le docétaxel et avec un traitement par suppression androgénique,,,
+DASATINIB,SPRYCEL,PO,Hématologique,Chez des patients adultes atteints de leucémie myéloïde chronique (LMC) à chromosome Philadelphie (Ph+) en phase chronique nouvellement diagnostiquée.,,,
+DAUNORUBICINE,CERUBIDINE,,Hématologique,"Chez l'enfant, dans le cadre de polychimiothérapies : 
+ •Leucémie aiguë lymphoïde.
+ •Leucémie aiguë myéloïde.",,,
+DAUNORUBICINE,CÉRUBIDINE,IV,Hématologique,"Chez l'enfant, dans le cadre de polychimiothérapies : 
+ •Leucémie aiguë lymphoïde.
+ •Leucémie aiguë myéloïde.",,,
+DAUNORUBICINE + CYTARABINE,VYXEOS,IV,Hématologique,"Traitement des patients adultes présentant une leucémie aiguë myéloblastique nouvellement diagnostiquée, secondaire à un traitement (LAM-t) ou une LAM avec anomalies associées aux myélodysplasies (LAM-MRC).",I000604,,9440433
+DECITABINE + CEDAZURIDINE,INAQOVI,,Hématologique,Traitement des patients adultes atteints de leucémie aiguë myéloïde (LAM) nouvellement diagnostiquée et qui ne sont pas éligibles à une chimiothérapie d'induction standard.,,,
+DEGARELIX,FIRMAGON,,Uro/néphrologie,"Traitement du cancer de la prostate avancé, hormono-dépendant",,,
+DEXAMETHASONE,DEXLIQ,,Hématologique,"Traitement du myélome multiple symptomatique, de la leucémie aiguë lymphoïde/lymphoblastique, de la maladie de Hodgkin et du lymphome non hodgkinien, en association avec d'autres médicaments.",,,
+DEXAMETHASONE,NÉOFORDEX,,Hématologique,"Chez l’adulte, en association, dans le traitement de certaines formes de leucémie aiguë lymphoblastique.",,CDEXA03,9417894
+DEXAMÉTHASONE,DEXLIQ,PO,Hématologique,"Traitement du myélome multiple symptomatique, de la leucémie aiguë lymphoïde/lymphoblastique, de la maladie de Hodgkin et du lymphome non hodgkinien, en association avec d'autres médicaments.",,,
+DEXAMÉTHASONE,NEOFORDEX,,Hématologique,"Chez l’adulte, en association, dans le traitement de certaines formes de leucémie aiguë lymphoblastique.",,CDEXA03,9417894
+DEXAMÉTHASONE,NÉOFORDEX,PO,Hématologique,"Chez l’adulte, en association, dans le traitement de certaines formes de leucémie aiguë lymphoblastique.",,CDEXA03,9417894
+DINUTIXIMAB,QARZIBA,IV,SNC,"Neuroblastome récidivant ou réfractaire, avec ou sans maladie résiduelle chez patient ≥ 12 mois.
+Avant d’initier le traitement d’un neuroblastome récidivant, il convient de stabiliser toute maladie progressant de manière active par d’autres mesures adéquates. Chez les patients présentant des antécédents de maladie récidivante ou réfractaire et chez les patients n’ayant pas présenté une réponse complète après un traitement de première ligne, Qarziba® doit être associé à l’interleukine 2 (IL-2).",I000593,,9439542
+DOCETAXEL,TAXOTÈRE,,Sein,En association à la capecitabine est indiqué dans le traitement du cancer du sein localement avancé ou métastatique après échec d’une chimiothérapie cytotoxique ayant comporté une anthracycline.,,,
+DOCÉTAXEL,TAXOTERE,,Sein,En association à la capecitabine est indiqué dans le traitement du cancer du sein localement avancé ou métastatique après échec d’une chimiothérapie cytotoxique ayant comporté une anthracycline.,,,
+DOCÉTAXEL,TAXOTÈRE,IV,Sein,En association à la capecitabine est indiqué dans le traitement du cancer du sein localement avancé ou métastatique après échec d’une chimiothérapie cytotoxique ayant comporté une anthracycline.,,,
+DOSTARLIMAB,JEMPERLI,IV,Gynécologique,En combinaison avec une chimiothérapie à base de sels de platine pour le traitement des patientes adultes atteintes d’un cancer de l’endomètre avancé nouvellement diagnostiqué ou récidivant et candidates à un traitement systémique,,CDOST02,9001307
+DOXORUBICINE ,ADRIBLASTINE,IV,Autre,"Cancers de la vessie, de l’ovaire, de l'estomac",,,
+DOXORUBICINE LIPOSOMALE,MYOCET,IV,Sein,"En association au cyclophosphamide, est indiqué dans le traitement du cancer du sein métastatique de la femme adulte, en première ligne.",I000240,,
+DOXORUBICINE LIPOSOMALE PEGYLEE,CAELYX,,Hématologique,En association avec le bortézomib pour le traitement du myélome multiple en progression chez les patients qui ont reçu au moins un traitement antérieur et qui ont déjà subi ou qui sont inéligibles pour une greffe de moelle osseuse,I000049,,
+DOXORUBICINE LIPOSOMALE PEGYLEE,ZOLSKETIL,,Hématologique,En association avec le bortézomib pour le traitement du myélome multiple en progression chez les patients qui ont reçu au moins un traitement antérieur et qui ont déjà subi ou qui sont inéligibles pour une greffe de moelle osseuse,I000049,,
+DOXORUBICINE LIPOSOMALE PÉGYLÉE,CAELYX,IV,Hématologique,En association avec le bortézomib pour le traitement du myélome multiple en progression chez les patients qui ont reçu au moins un traitement antérieur et qui ont déjà subi ou qui sont inéligibles pour une greffe de moelle osseuse,I000049,,
+DOXORUBICINE LIPOSOMALE PÉGYLÉE,ZOLSKETIL,IV,Hématologique,En association avec le bortézomib pour le traitement du myélome multiple en progression chez les patients qui ont reçu au moins un traitement antérieur et qui ont déjà subi ou qui sont inéligibles pour une greffe de moelle osseuse,I000049,,
+DURVALUMAB,IMFINZI,IV,Digestif,En association avec une chimiothérapie à base de gemcitabine/cisplatine pour le traitement de première ligne des patients adultes atteints d’un cancer des voies biliaires non résécable ou métastatique,,CDURV05,"9440545 (flacon 10 mL)
+9440551 (flacon 2,4 mL)"
+DUVELISIB,COPIKTRA,PO,Hématologique,En monothérapie pour le traitement des patients adultes atteints de Leucémie lymphoïde chronique (LLC) récidivante ou réfractaire après au moins deux traitements antérieurs,,,
+DÉCITABINE + CÉDAZURIDINE,INAQOVI,IV,Hématologique,Traitement des patients adultes atteints de leucémie aiguë myéloïde (LAM) nouvellement diagnostiquée et qui ne sont pas éligibles à une chimiothérapie d'induction standard.,,,
+DÉGARÉLIX,FIRMAGON,IV,Uro/néphrologie,"Traitement du cancer de la prostate avancé, hormono-dépendant",,,
+ELACESTRANT,ORSERDU,PO,Sein,"En monothérapie dans le traitement du cancer du sein localement avancé ou métastatique, positif pour les récepteurs aux estrogènes (RE) et négatif pour les récepteurs du facteur de croissance épidermique humain 2 (HER2), chez les femmes ménopausées et les hommes ayant progressé après au moins une ligne d’hormonothérapie en association avec un inhibiteur des CDK 4/6 chez les patients non éligibles à un traitement par chimiothérapie (Les patients présentant une mutation germinale BRCA doivent avoir reçu un inhibiteur sélectif des enzymes poly(ADP-ribose) polymérases (PARP))",,NELAC04,"9003094 (345 mg)
+9003095 (86 mg)"
+ELOTUZUMAB,EMPLICITI,IV,Hématologique,En association au lénalidomide et à la dexaméthasone dans le traitement du myélome multiple chez des patients adultes ayant reçu au moins un traitement antérieur.,,,
+ELRANATAMAB,ELRANATAMAB,SC,Hématologique,"En monothérapie dans le traitement des adultes atteints d'un myélome multiple en rechute et réfractaire, ayant reçu au moins trois traitements antérieurs incluant un agent immunomodulateur, un inhibiteur du protéasome et un anticorps anti-CD38 et dont la maladie a progressé pendant le dernier traitement, lorsque toutes les options thérapeutiques sont épuisées (hors thérapies cellulaires), sur l'avis d'une réunion de concertation pluridisciplinaire (RCP).",,CELRA01,9002387
+ELRANATAMAB ,ELRANATAMAB ,SC,Hématologique,Myélome multiple,,NELRA01,9002387
+ENASIDENIB,IDHIFA,PO,Hématologique,"Traitement de la Leucémie Aiguë Myéloïde en rechute ou réfractaire :
+ - IDH 2 positive
+ - A partir de la 3e ligne pour les patients éligibles à une chimiothérapie d’induction en vue d’une allogreffe (patients ayant reçu une 1ère ligne de traitement incluant un protocole d’induction à la greffe à base d’anthracycline + aracytine et une 2nde ligne de traitement incluant un traitement de re-induction ou un agent hypométhylant)
+ - A partir de la 2e ligne pour les patients non éligibles à une chimiothérapie d’induction en vue d’une allogreffe (patients ayant reçu un agent hypométhylant)",,NENAS02,9436354
+ENCORAFENIB,BRAFTOVI,,Dermatologique,En association au Binimétinib dans le traitement de patients adultes atteints de mélanome non résécable ou métastatique porteur d'une mutation BRAF V600,,,
+ENCORAFÉNIB,BRAFTOVI,PO,Dermatologique,En association au Binimétinib dans le traitement de patients adultes atteints de mélanome non résécable ou métastatique porteur d'une mutation BRAF V600,,,
+ENFORTUMAB VEDOTIN,PADCEV,IV,Uro/néphrologie,"En monothérapie pour le traitement des patients adultes atteints de carcinome urothélial localement avancé ou métastatique, ayant reçu précédemment une chimiothérapie à base de sels de platine et un inhibiteur du récepteur de mort programmée-1 (anti PD-1) ou un inhibiteur du ligand du récepteur de mort programmée (anti PD-L1)",,CENFO01,"9001996 (30 mg)
+9002222 (20 mg)"
+ENTRECTINIB,ROZLYTREK,PO,Bronchopulmonaire,"En monothérapie chez les patients adultes atteints de formes avancées de cancer du poumon non à petites cellules (CPNPC) positif pour ROS1 (ROS1+), non précédemment traités par des inhibiteurs de ROS1",,,
+ENZALUTAMIDE,XTANDI,PO,Uro/néphrologie,"Traitement des patients adultes atteints d'un cancer de la prostate hormono-sensible métastatique de haut volume, et pour lesquels un traitement par acétate d’abiratérone ou docétaxel ne peut être considéré, en association avec un traitement par suppression androgénique.",,CENZA01,
+EPCORITAMAB,EPCORITAMAB,SC,Hématologique,Lymphome diffus à grandes cellules B en rechute ou réfractaire après au moins 3 lignes de traitements et inéligible à un traitement par CAR-T cells.,,NEPCO01,"9003123 (5mg/mL)
+9003146 (60 mg/mL)"
+EPCORITAMAB,TEPKINLY,SC,Hématologique,"En monothérapie dans le traitement des patients adultes atteints d’un lymphome diffus à grandes cellules B (LDGCB) réfractaire ou en rechute, après au moins deux lignes de traitement systémique, inéligibles à l’ensemble des traitements disponibles ou en échec aux médicaments à base de cellules CAR-T",,CEPCO01,"9003518 (4mg)
+9003517 (48 mg)"
+EPIRUBICINE,EPIRUBICINE,Intravésicale,Uro/néphrologie,Traitement prophylactique de la récurrence du carcinome superficiel de la vessie après résection transuréthrale,,,
+EPIRUBICINE,FARMORUBICINE,IV,Bronchopulmonaire,Cancer bronchiuqe à petites cellules,,,
+ERDAFITINIB,BALVERSA,PO,Uro/néphrologie,Patient adulte non éligible à un essai en cours et atteint d'un carcinome urothélial de stade IV (métastatique ou inopérable) avec altérations des gènes FGFR3 et en progression après chimiothérapie et immunothérapie.,,NERDA01,"9434177 (3 mg)
+9434183 (4 mg)
+9434208 (5 mg)"
+ERDAFITINIB,ERDAFITINIB,PO,Uro/néphrologie,Cancer de l'endomètre,,NERDA04,"9434177 (3 mg)
+9434208 (5 mg)"
+ERIBULINE,HALAVEN,IV,Sein,"Dans le traitement des patients atteints d’un cancer du sein localement avancé ou métastatique, dont la maladie a progressé après au moins un protocole de chimiothérapie pour le traitement du stade avancé.
+Le traitement antérieur, en situation adjuvante ou métastatique, doit avoir comporté une anthracycline et un taxane, sauf chez les patients ne pouvant pas recevoir ces traitements",I000153,,9368954
+ERLOTINIB,TARCEVA,PO,Bronchopulmonaire,"Dans le traitement des formes localement avancées ou métastatiques du CBNPC après échec d'au moins une ligne de chimiothérapie. Chez les patients avec des tumeurs sans mutations activatrices de l’EGFR, Tarceva est indiqué lorsque les autres options de traitement ne sont pas considérées appropriées.",,,
+ESTRAMUSTINE,ESTRACYT,PO,Uro/néphrologie,Traitement des cancers prostatiques hormonorésistants.,,,
+ETOPOSIDE,CELLTOP,PO,Hématologique,Indiqué pour la prise en charge des leucémies aiguës dans le traitement d'induction de la rémission complète des formes en rechute et dans certaines modalités de traitement d'entretien de la rémission complète,,,
+ETOPOSIDE,ETOPOPHOS,IV,Hématologique,En association à d'autres agents de chimiothérapie autorisés dans le traitement de la leucémie aiguë myéloïde chez l'adulte et les enfants.,,,
+ETOPOSIDE,ETOPOSIDE,IV,Hématologique,en association à d’autres agents de chimiothérapie autorisés dans le traitement de la leucémie aiguë myéloïde chez l’adulte et les patients pédiatriques.,,,
+EVEROLIMUS,AFINITOR,,Tumeurs neuroendocrines,Traitement de tumeurs neuroendocrines d'origine pancréatique non résécables ou métastatiques bien ou moyennement différenciées avec progression de la maladie chez l'adulte.,,,
+EVEROLIMUS,VOTUBIA,,Autre,Chez les adultes ayant un angiomyolipome rénal associé à une sclérose tubéreuse de Bourneville (STB) qui présentent un risque de complications (sur la base de facteurs de risque tels que la taille de la tumeur ou la présence d'un anévrisme ou la présence de tumeurs multiples ou bilatérales) mais qui ne nécessitent pas d'intervention chirurgicale immédiate,,,
+EVÉROLIMUS,AFINITOR,PO,Tumeurs neuroendocrines,Traitement de tumeurs neuroendocrines d'origine pancréatique non résécables ou métastatiques bien ou moyennement différenciées avec progression de la maladie chez l'adulte.,,,
+EVÉROLIMUS,VOTUBIA,PO,Autre,Chez les adultes ayant un angiomyolipome rénal associé à une sclérose tubéreuse de Bourneville (STB) qui présentent un risque de complications (sur la base de facteurs de risque tels que la taille de la tumeur ou la présence d'un anévrisme ou la présence de tumeurs multiples ou bilatérales) mais qui ne nécessitent pas d'intervention chirurgicale immédiate,,,
+EXEMESTANE,AROMASINE,PO,Sein,"Traitement adjuvant du cancer du sein invasif à un stade précoce exprimant des récepteurs aux estrogènes, chez les femmes ménopausées, à la suite d’un traitement adjuvant initial d’une durée de 2 à 3 ans par tamoxifène.",,,
+FEDRATINIB,INREBIC,PO,Hématologique,"Inrebic est indiqué dans le traitement de la splénomégalie ou des symptômes liés à la maladie chez les patients adultes atteints de myélofibrose primitive, de myélofibrose secondaire à une polyglobulie de Vaquez ou une thrombocytémie essentielle qui sont naïfs d’inhibiteur de Janus kinase (JAK) ou qui ont été traités par ruxolitinib.",,,
+FLUDARABINE,FLUDARA,IV,Hématologique,"Traitement de la leucémie lymphoïde chronique (LLC) à cellules B chez les patients ayant des réserves médullaires suffisantes.
+
+Le traitement en première ligne avec la fludarabine doit uniquement être initié chez les patients en stade avancé de la maladie, Raï stade III/IV (Binet stade C) ou Raï stade I/II (Binet stade A/B) lorsque le patient présente des symptômes associés à la maladie ou une maladie en progression.",,,
+FLUOROURACILE,FLUOROURACILE,IV,Digestif,Adénocarcinomes digestifs évolués ou pour les cancers colorectaux après résection en situation adjuvante.,,,
+FOTEMUSTINE,MUPHORAN,,Dermatologique,Traitement du mélanome malin disséminé (y compris dans les localisations cérébrales)  en première ligne de traitement et en association à une autre chimiothérapie (quelle que soit la ligne de traitement).,,,
+FOTÉMUSTINE,MUPHORAN,IV,Dermatologique,Traitement du mélanome malin disséminé (y compris dans les localisations cérébrales)  en première ligne de traitement et en association à une autre chimiothérapie (quelle que soit la ligne de traitement).,,,
+FULVESTRANT,FASLODEX,IM,Sein,"En association au palbociclib dans le traitement du cancer du sein localement avancé ou métastatique, RH+/HER2-, prétraité par hormonothérapie (au stade avancé ou lors d’un traitement adjuvant pour les progressions précoces) chez les femmes non ménopausées et/ou en cas d’atteinte viscérale symptomatique menaçant le pronostic vital à court terme.",,,
+FUTIBATINIB,LYTGOBI,PO,Digestif,Traitement en monothérapie des patients adultes atteints de cholangiocarcinome localement avancé ou métastatique avec une fusion ou un réarrangement du récepteur 2 du facteur de croissance des fibroblastes (FGFR2) qui ont progressé après au moins une ligne antérieure de traitement systémique,,,
+FUTIBATINIB,TAS-120 ,PO,Digestif,Cholangiocarcinome,,NFUTI02,
+GEFITINIB,IRESSA,,Bronchopulmonaire,"Chez les adultes, en 2ème ou 3ème ligne, en monothérapie dans le traitement du cancer bronchique non à petites cellules (CBNPC) localement avancé ou métastatique avec mutations activatrices de l'EGFR-TK.",,,
+GEMCITABINE,GEMZAR,IV,Bronchopulmonaire,En association avec le cispaltine dans le traitement en première ligne des patients atteints de cancer bronchique non à petites cellules (CBNPC) localement avancé ou métastatique. Un traitement par gemcitabine en monothérapie peut être envisagé chez les patients âgés ou chez ceux ayant un indice de performance de 2,,,
+GEMTUZUMAB OZOGAMICINE,MYLOTARG,IV,Hématologique,"En association avec la daunorubicine et la cytarabine pour le traitement des patients âgés de 15 ans et plus atteints de leucémie myéloïde de novo CD33 positif, précédemment non traitée, hors leucémie aiguë promyélocytaire.",,,
+GILTERINIB,XOSPATA,PO,Hématologique,"Gilteritinib est indiqué chez les adultes présentant une leucémie aiguë myéloïde (LAM) en rechute à partir de la 3ème ligne, ou à partir de la 2ème ligne chez les adultes non éligibles à une chimiothérapie intensive de rattrapage, ou réfractaire, porteurs d’une mutation du gène FLT3",,,
+GLOFITAMAB,COLUMVI,IV,Hématologique,"En monothérapie dans le traitement des patients adultes atteints d’un lymphome diffus à grandes cellules B (LDGCB) réfractaire ou en rechute, après au moins deux lignes de traitement systémique, inéligibles à l’ensemble des traitements disponibles ou en échec aux médicaments à base de cellules CAR-T",,CGLOF01,9000780
+GLOFITAMAB,GLOFITAMAB,IV,Hématologique,En monothérapie dans le traitement des Lymphomes B diffus à grandes cellules en rechute ou réfractaires après au moins trois lignes de traitement chez les patients inéligibles à un traitement par Car-T Cells,,NGLOF02,
+GOSERELINE,ZOLADEX,,Uro/néphrologie,Traitement adjuvant à la radiothérapie externe dans le cancer de la prostate localement avancé (stade T3 - T4 de la classification TNM ou stade C de la classification AUA).,,,
+GOSÉRÉLINE,ZOLADEX,SC,Uro/néphrologie,Traitement adjuvant à la radiothérapie externe dans le cancer de la prostate localement avancé (stade T3 - T4 de la classification TNM ou stade C de la classification AUA).,,,
+GÉFITINIB,IRESSA,PO,Bronchopulmonaire,"Chez les adultes, en 2ème ou 3ème ligne, en monothérapie dans le traitement du cancer bronchique non à petites cellules (CBNPC) localement avancé ou métastatique avec mutations activatrices de l'EGFR-TK.",,,
+HYDROXYCARBAMIDE,HYDREA,PO,Hématologique,"Traitement de la leucémie myéloïde chronique, de la polyglobulie primitive, de la thrombocytémie essentielle avec un fort risque de complications thrombo-emboliques",,,
+IBRITUMOMAB TIUXETAN,ZEVALIN,IV,Hématologique,"Marqué à l'yttrium-90 
+Traitement de consolidation après induction d'une rémission chez les patients atteints d’un lymphome folliculaire, non traité antérieurement.",I000387,,9258504
+IBRUTINIB,IMBRUVICA,PO,Hématologique,"En association à l'obinituzumab, pour le traitement des patients adultes atteints d'une leucémie lymphoïde chronique (LLC) non précédemment traités",,,
+IDARUBICINE,ZAVEDOS,IV,Hématologique,En association avec la cytarabine dans le traitement de 1ère ligne d’induction de la rémission chez des enfants non précédemment traités et atteints de leucémie aiguë myéloïde (LAM).,,,
+IDECABTAGENE VICLEUCEL,ABECMA,IV,Hématologique,"Abecma est indiqué pour le traitement des patients adultes atteints d’un myélome multiple en rechute et réfractaire ayant reçu au moins trois traitements antérieurs, incluant un agent immunomodulateur, un inhibiteur du protéasome et un anticorps anti-CD38, et dont la maladie a progressé pendant le dernier traitement.",,CIDEC01,"9001263 (poche de 250 mL) 
+9001264 (poche de 50 mL)
+9001265 (poche de 500 mL)"
+IDELALISIB,ZYDÉLIG,,Hématologique,"Zydelig est indiqué en association au rituximab pour le traitement de patients adultes atteints de leucémie lymphoïde chronique (LLC) :
+  - ayant reçu au moins un traitement antérieur, ou
+ - comme traitement de première intention en présence d'une délétion 17p ou d'une mutation TP53 chez les patients qui ne sont éligibles à aucun autre traitement.",,,
+IDÉLALISIB,ZYDELIG,,Hématologique,"Zydelig est indiqué en association au rituximab pour le traitement de patients adultes atteints de leucémie lymphoïde chronique (LLC) :
+  - ayant reçu au moins un traitement antérieur, ou
+ - comme traitement de première intention en présence d'une délétion 17p ou d'une mutation TP53 chez les patients qui ne sont éligibles à aucun autre traitement.",,,
+IDÉLALISIB,ZYDÉLIG,PO,Hématologique,"Zydelig est indiqué en association au rituximab pour le traitement de patients adultes atteints de leucémie lymphoïde chronique (LLC) :
+  - ayant reçu au moins un traitement antérieur, ou
+ - comme traitement de première intention en présence d'une délétion 17p ou d'une mutation TP53 chez les patients qui ne sont éligibles à aucun autre traitement.",,,
+IMATINIB,GLIVEC,PO,Hématologique,Chez l’adulte et chez l'enfant dans le traitement de la LMC à chromosome Philadelphie (bcr-abl) positif en phase accélérée ou en crise blastique.,,,
+INOTUZUMAB OZOGAMICIN,BESPONSA,IV,Hématologique,"En monothérapie dans le traitement des patients adultes présentant une leucémie aiguë lymphoblastique (LAL) à précurseur B, CD22+ en rechute ou réfractaire avec chromosome Philadelphie négatif (Phi-)",,,
+IPILIMUMAB,YERVOY,IV,Uro/néphrologie,"En association à nivolumab, en première ligne, dans le traitement des patients adultes atteints d’un carcinome à cellules rénales avancé de pronostic intermédiaire/défavorable",I000494,,"9374050 (50 mg)
+9374067 (200 mg)"
+IRINOTECAN,CAMPTO,,Digestif,CAMPTO en association avec la capécitabine avec ou sans bévacizumab est indiqué en traitement de première ligne chez les patients présentant un cancer colorectal métastatique.,,,
+IRINOTECAN LIPOSOMAL,ONIVYDE,,Digestif,"En association avec le 5-fluorouracile (5-FU) et la leucovorine (LV), est indiqué dans le traitement des adénocarcinomes du pancréas métastatiques, chez les patients adultes en progression de la maladie après un traitement ayant comporté de la gemcitabine.",,,
+IRINOTÉCAN,CAMPTO,IV,Digestif,CAMPTO en association avec la capécitabine avec ou sans bévacizumab est indiqué en traitement de première ligne chez les patients présentant un cancer colorectal métastatique.,,,
+IRINOTÉCAN LIPOSOMAL,ONIVYDE,IV,Digestif,"En association avec le 5-fluorouracile (5-FU) et la leucovorine (LV), est indiqué dans le traitement des adénocarcinomes du pancréas métastatiques, chez les patients adultes en progression de la maladie après un traitement ayant comporté de la gemcitabine.",,,
+ISATUXIMAB,SARCLISA,IV,Hématologique,En association avec le carfilzomib et la dexaméthasone pour le traitement des patients adultes atteints de myélome multiple qui ont reçu au moins un traitement antérieur,I000606,,"9455475 (500 mg)
+9455481 (100 mg)"
+IVOSIDENIB,IVOSIDENIB,PO,Digestif,Monothérapie des patients adultes atteints de cholangiocarcinome avancé non résécable ou métastatique avec une mutation IDH1 et en progression après 2 lignes de traitement pour la maladie avancée non résécable et/ou métastatique et avec un ECOG 0 ou 1,,NIVOS05,
+IVOSIDENIB,TIBSOVO,PO,Digestif,"En monothérapie des patients adultes atteints de cholangiocarcinome avancé non résécable ou métastatique avec une mutation de l’isocitrate déshydrogénase 1 (IDH1) R132, ayant un score ECOG 0 ou 1, et en progression après 2 lignes de traitement pour la maladie avancée non résécable et/ou métastatique sur avis d’une réunion de concertation pluridisciplinaire (RCP).",,CIVOS01,9003242
+IXAZOMIB,NINLARO,PO,Hématologique,NINLARO en association avec le lénalidomide et la dexaméthasone est indiqué dans le traitement du myélome multiple chez les patients adultes qui ont reçu au moins un traitement antérieur,,,
+LAPATINIB,TYVERB,PO,Sein,"Chez l'adulte, dans le traitement du cancer du sein, avec surexpression des récepteurs HER2 (ErbB2) en association à la capécitabine, chez les patients ayant une maladie avancée ou métastatique en progression après un traitement antérieur ayant comporté une anthracycline, un taxane et un traitement ayant inclus du trastuzumab en situation métastatique.",,,
+LAROTRECTINIB,VITRAKVI,PO,Autre,"Autres situations en pédiatrie incluses dans l’AMM et chez l’adulte dans l’ensemble des tumeurs solides ayant une fusion du gène NTRK (Neurotrophic Tyrosine Receptor Kinase) : 
+ - au stade localement avancé ou métastatique, ou pour laquelle une résection chirurgicale risquerait d’entraîner une morbidité sévère, et
+ - lorsqu’il n’existe aucune option thérapeutique satisfaisante.",,,
+LENALIDOMIDE,REVLIMID,,Hématologique,"En association à la dexaméthasone, pour le traitement du myélome multiple chez les patients ayant déjà reçu au moins un traitement antérieur.",,,
+LENVATINIB,KISPLYX,PO,Uro/néphrologie,"Kisplyx est indiqué dans le traitement des adultes atteints d’un carcinome à cellules rénales avancé en association avec l’évérolimus, après un traitement par anti-VEGF",,,
+LENVATINIB,LENVIMA,PO,Gynécologique,"En association au pembrolizumab, est indiqué dans le traitement des patientes adultes atteintes d’un cancer de l’endomètre avancé ou récidivant, dont la maladie progresse pendant ou suite à une chimiothérapie antérieure à base de sels de platine reçue quel que soit le stade et qui ne sont pas éligibles à une chirurgie curative ou à une radiothérapie.",,,
+LETROZOLE,FEMARA,,Sein,Prolongation du traitement adjuvant du cancer du sein hormonodépendant invasif chez la femme ménopausée ayant préalablement reçu un traitement adjuvant standard par le tamoxifène pendant 5 ans,,,
+LEUPRORELINE,ELIGARD,,Uro/néphrologie,En association avec la radiothérapie dans le traitement du cancer de la prostate localisé à haut risque et localement avancé hormonodépendant,,,
+LEUPRORELINE,ENANTONE,,Uro/néphrologie,Traitement concomitant et adjuvant à la radiothérapie externe dans le cancer de la prostate localement avancé (stade T3-T4 de la classification TNM ou stade C de la classification AUA),,,
+LEUPRORELINE,LEPTOPROL,,Uro/néphrologie,Traitement à visée palliative chez les patients atteints de cancer de la prostate avancé hormonosensible.,,,
+LEUPRORELINE,ZEULIDE,,Uro/néphrologie,"Traitement adjuvant, en association au tamoxifène ou à un inhibiteur de l’aromatase, du cancer du sein à un stade précoce répondant à l’hormonothérapie chez les femmes pré- et péri-ménopausées à haut risque de récidive (âge jeune, tumeur de haut grade, envahissement ganglionnaire)",,,
+LEUPRORÉLINE,ELIGARD,SC,Uro/néphrologie,En association avec la radiothérapie dans le traitement du cancer de la prostate localisé à haut risque et localement avancé hormonodépendant,,,
+LEUPRORÉLINE,ENANTONE,"IM
+ SC",Uro/néphrologie,Traitement concomitant et adjuvant à la radiothérapie externe dans le cancer de la prostate localement avancé (stade T3-T4 de la classification TNM ou stade C de la classification AUA),,,
+LEUPRORÉLINE,LEPTOPROL,SC,Uro/néphrologie,Traitement à visée palliative chez les patients atteints de cancer de la prostate avancé hormonosensible.,,,
+LEUPRORÉLINE,ZEULIDE,IM,Uro/néphrologie,"Traitement adjuvant, en association au tamoxifène ou à un inhibiteur de l’aromatase, du cancer du sein à un stade précoce répondant à l’hormonothérapie chez les femmes pré- et péri-ménopausées à haut risque de récidive (âge jeune, tumeur de haut grade, envahissement ganglionnaire)",,,
+LINZAGOLIX,YSELTY,VO,Gynécologique,Traitement des symptômes modérés à sévères des fibromes utérins chez la femme adulte en âge de procréer,,,
+LISOCABTAGENE MARALEUCEL,BREYANZI,IV,Hématologique,"Traitement des patients adultes atteints d’un lymphome diffus à grandes cellules B (LDGCB), d’un lymphome de haut grade à cellules B (LHGCB) ou d’un lymphome médiastinal primitif à grandes cellules B (LMPGCB), réfractaires ou en rechute dans les 12 mois suivant un traitement de première ligne et éligibles à une autogreffe de cellules souches hématopoïétiques (CSH).",,CLISO01,9002451
+LOMUSTINE,CEENU,PO,Hématologique,"Maladie de Hodgkin - comme traitement secondaire, en monothérapie ou en association à d'autres médicaments actifs.",,NXXXX00,
+LOMUSTINE,LOMUSTINE MEDAC,PO,Bronchopulmonaire,"Traitement palliatif ou d’appoint, habituellement en association avec une radiothérapie et/ou une chirurgie dans le cadre de schémas thérapeutiques multiples dans les cancers du poumon (en particulier le carcinome à petites cellules)",,,
+LONCASTUXIMAB TESIRINE,ZYNLONTA,,Hématologique,"Traitement du lymphome diffus à grandes cellules B et du lymphome de haut grade à cellules B chez l'adulte, en monothérapie dans les formes récidivantes ou réfractaires après deux lignes de traitement systémique ou plus.",,,
+LONCASTUXIMAB TÉSIRINE,ZYNLONTA,IV,Hématologique,"Traitement du lymphome diffus à grandes cellules B et du lymphome de haut grade à cellules B chez l'adulte, en monothérapie dans les formes récidivantes ou réfractaires après deux lignes de traitement systémique ou plus.",,,
+LORLATINIB,LORLATINIB,PO,Bronchopulmonaire,"Cancer bronchique non à petites cellules (CBNPC) métastatique, ALK-positif, ayant progressé après au moins deux lignes de traitement par inhibiteur de tyrosine kinase de l'ALK, en monothérapie chez le patient adulte non éligible à un essai clinique actuellement en cours en France",,CLORL01,
+LORLATINIB,LORVIQUA,PO,Bronchopulmonaire,En monothérapie dans le traitement des patients adultes atteints d’un cancer du poumon non à petites cellules (CPNPC) ALK (kinase du lymphome anaplasique)-positif avancé non préalablement traité par un inhibiteur de l’ALK.,,,
+LURBINECTEDIN,LURBINECTEDIN ,IV,Bronchopulmonaire,Cancer bronchique à petites cellules,,NLURB02,9439660
+LUTECIUM  VIPIVOTIDE TETRAXETAN,PLUVICTO,,Uro/néphrologie,"En association à un traitement de privation androgénique avec ou sans inhibiteur de la voie du récepteur des androgènes, dans le traitement des patients adultes ayant un cancer de la prostate positif pour l'antigène PSMA résistant à la castration en progression qui a été traité par inhibition de la voie du récepteur des androgènes et une chimiothérapie à base de taxane.",,CLUTE01,"9001699
+9002980"
+LUTECIUM OXODOTREOTIDE,LUTATHERA,,Digestif,"Méningiome de tous grades, exprimant les récepteurs de la somatostatine de type 2 lors de l’imagerie TEP des récepteurs de la somatostatine, après échec du traitement de référence (chirurgie, radiothérapie/radiochirurgie) ou impossibilité de le mettre en œuvre (lésions multiples, lésions inaccessibles), sur proposition de la RCP nationale Omega.",,NLUTE05,9408211
+LUTÉCIUM  VIPIVOTIDE TETRAXETAN,PLUVICTO,IV,Uro/néphrologie,"En association à un traitement de privation androgénique avec ou sans inhibiteur de la voie du récepteur des androgènes, dans le traitement des patients adultes ayant un cancer de la prostate positif pour l'antigène PSMA résistant à la castration en progression qui a été traité par inhibition de la voie du récepteur des androgènes et une chimiothérapie à base de taxane.",,CLUTE01,"9001699
+9002980"
+LUTÉCIUM OXODOTRÉOTIDE,LUTATHERA,IV,Digestif,"Méningiome de tous grades, exprimant les récepteurs de la somatostatine de type 2 lors de l’imagerie TEP des récepteurs de la somatostatine, après échec du traitement de référence (chirurgie, radiothérapie/radiochirurgie) ou impossibilité de le mettre en œuvre (lésions multiples, lésions inaccessibles), sur proposition de la RCP nationale Omega.",,NLUTE05,9408211
+LUVELTAMAB TAZEVIBULIN,"STRO-002, ",IV,Hématologique,Leucémie aigue myéloïde,,NLUVE01,9003260
+LÉNALIDOMIDE,REVLIMID,PO,Hématologique,"En association à la dexaméthasone, pour le traitement du myélome multiple chez les patients ayant déjà reçu au moins un traitement antérieur.",,,
+LÉTROZOLE,FEMARA,PO,Sein,Prolongation du traitement adjuvant du cancer du sein hormonodépendant invasif chez la femme ménopausée ayant préalablement reçu un traitement adjuvant standard par le tamoxifène pendant 5 ans,,,
+MAGROLIMAB,MAGROLIMAB,IV,Hématologique,"En association avec l’Azacitidine dans la Leucémie Myéloïde Aiguë en rechute ou réfractaire après au moins une ligne de traitement chez les patients non éligibles à une chimiothérapie intensive, et non éligibles à la greffe, sans alternative thérapeutique et non éligibles à un essai clinique avec réalisation au préalable d'un phénotypage érythrocytaire étendu.",,NMAGR01,9003099
+MEBENDAZOLE,VERMOX,PO,SNC,Patient âgé de plus de 2 ans présentant un gliome infiltrant le tronc cérébral après échec d’au moins un traitement incluant la radiothérapie et la chimiothérapie/thérapie ciblée (exemple : protocole Biomede) ET en réponse/stabilisation suite à un nouveau protocole de radiothérapie ou en rechute/progression lorsque un nouveau protocole de radiothérapie n’est pas envisageable,,NMEBE01,"9455452 (20 mg/mL)
+9299437 (500 mg)"
+MEGESTROL,MEGACE,PO,Sein,Traitement palliatif des carcinomes du sein.,,,
+MELPHALAN,ALKERAN,IV,Sein,"Intensification thérapeutique, il est utilisé seul ou en association avec d'autres agents cytotoxiques et/ou irradiation corporelle étendue ou totale dans le traitement de l'adénocarcinome mammaire.",,,
+MELPHALAN,PHELINUN,IV,Hématologique,PHELINUN en association avec d’autres médicaments cytotoxiques est indiqué comme traitement de conditionnement à intensité réduite (CIR) avant une allogreffe de cellules souches hématopoïétiques (allo-GSCH) chez les adultes atteints d’hémopathies malignes,,,
+MELPHALAN FLUFENAMIDE,MELFLUFEN,,Hématologique,"Patients adultes atteints de myélome multiple récidivant et réfractaire ayant reçu au moins 2 lignes de traitement antérieures et étant réfractaire à au moins un inhibiteur de protéasome, un agent immunomodulateur et un anticorps monoclonal anti CD-38 (réfractaire triple classe).",,NMELP03,
+MELPHALAN FLUFENAMIDE,PEPAXTI,,Hématologique,"En association à la dexaméthasone dans le traitement des patients adultes atteints d'un myélome multiple qui ont reçu au moins trois lignes de traitement et dont la maladie est réfractaire à au moins un inhibiteur du protéasome, un immunomodulateur et un anticorps monoclonal anti-CD38 et qui ont connu une progression de la maladie lors ou après le dernier traitement.",,,
+MELPHALAN FLUFÉNAMIDE,MELFLUFEN,IV,Hématologique,"Patients adultes atteints de myélome multiple récidivant et réfractaire ayant reçu au moins 2 lignes de traitement antérieures et étant réfractaire à au moins un inhibiteur de protéasome, un agent immunomodulateur et un anticorps monoclonal anti CD-38 (réfractaire triple classe).",,NMELP03,
+MELPHALAN FLUFÉNAMIDE,PEPAXTI,IV,Hématologique,"En association à la dexaméthasone dans le traitement des patients adultes atteints d'un myélome multiple qui ont reçu au moins trois lignes de traitement et dont la maladie est réfractaire à au moins un inhibiteur du protéasome, un immunomodulateur et un anticorps monoclonal anti-CD38 et qui ont connu une progression de la maladie lors ou après le dernier traitement.",,,
+MERCAPTOPURINE,PURINETHOL,PO,Hématologique,Le Purinéthol est indiqué dans le traitement de la leucémie aiguë. Il est utilisé en traitement d’induction de la rémission et en particulier en traitement d'entretien dans les cas de leucémies aiguës lymphoblastiques (LAL),,,
+MERCAPTOPURINE,XALUPRINE,PO,Hématologique,Traitement de la leucémie aiguë lymphoblastique (LAL) chez les adultes et adolescents.,,,
+METHOTREXATE,IMENOR,PO,Hématologique,"Traitement d’entretien dans la leucémie lymphoblastique aigüe (LLA) chez l’adulte, les adolescents et les enfants âgés d’au moins 3 ans",,,
+METHOTREXATE,LEDERTREXATE,"IM
+ IV
+ SC",Hématologique,A haute dose essentiellement : Leucémies aiguës lymphoblastiques de l’enfant (traitement de consolidation et prophylaxie de l’atteinte du système nerveux central).,,,
+METHOTREXATE,METHOTREXATE,PO,Hématologique,En traitement d’entretien d’une leucémie aigüe lymphoblastique ou chez les patients qui ne peuvent pas avaler les comprimés.,,NMETH04,9428426
+METHOTREXATE,METOTAB,PO,Hématologique,"Traitement d’entretien dans la leucémie lymphoblastique aigüe (LLA) chez l’adulte, les adolescents et les enfants âgés d’au moins 3 ans",,,
+METHOTREXATE,NOVATREX,PO,Hématologique,Traitement d'entretien des leucémies aigues lymphoblastiques,,,
+METHOXSALENE,MÉTHOXSALÈNE MACOPHARMA,,Hématologique,Chez les adultes pour une utilisation extracorporelle dans le traitement palliatif du lymphome cutané à cellules T à un stade avancé chez les patients qui n’ont pas répondu à d’autres formes de traitement.,,,
+METHOXSALENE,UVADEX,,Hématologique,"Employé conjointement au Système de Photophérèse THERAKOS CELLEX dans le traitement palliatif des manifestations cutanées (placards, plaques étendues, érythrodermie) des lymphomes cutanés à cellules T (CTCL) au stade avancé (T2 - T4), uniquement chez des patients n'ayant pas répondu à d'autres formes de traitement (puvathérapie, corticoïdes systémiques, caryolysine, interféron alpha).",,,
+MIDOSTAURINE,RYDAPT,PO,Hématologique,"Dans le traitement des patients adultes présentant une leucémie aigue myéloide nouvellement diagnostiquée avec mutation du gène FLT3, en association avec une chimiothérapie standard d'indication associant daunorubicine et cytarabine et une chimiothérapie de consolidation avec cytarabine à haute dose, suivie pour les patients en rémission complète, d'un traitement d'entretin par Rydapt en monothérapie",,,
+MIRVETUXIMAB SORAVTANSINE,MIRVETUXIMAB SORAVTANSINE,IV,Gynécologique,Tumeur maligne de l'ovaire,,NMIRV01,9002659
+MITOMYCINE,MITOMYCINE ACCORD,IV,Autre,"Dans le cadre d'une polychimiothérapie, dans le carcinome bronchique non à petites cellules",,,
+MITOMYCINE,MITOMYCINE MEDAC,Intravésicale,Uro/néphrologie,Tumeur de la vessie,,,
+MITOMYCINE,MITOMYCINE SUBSTIPHARM,IV,Autre,"Adénocarcinomes de l'estomac, du pancréas, du côlon, du rectum, du sein et leurs métastases",,,
+MITOTANE,LYSODREN,PO,Neuroendocrine,"Traitement symptomatique du carcinome corticosurrénalien évolué (non opérable, métastatique ou récidivant) [CCS]. 
+L'efficacité de Lysodren sur le carcinome corticosurrénalien non fonctionnel n'est pas établie",,,
+MITOXANTRONE,NOVANTRONE,IV,Hématologique,"En association à d’autres agents anticancéreux, Mitoxantrone est indiqué dans le traitement d'induction de la rémission dans la leucémie myéloïde chronique chez les patients en crise blastique.",,,
+MOBOCERTINIB,MOBOCERTINIB,PO,Bronchopulmonaire,Cancer bronchique non à petites cellules,,NMOBO02,9000428
+MOGAMULIZUMAB,POTELIGEO,IV,Hématologique,Mycosis fongoïde stades IB-II non transformé réfractaire chez l’adulte après échec d’au moins 2 traitements systémiques antérieurs,,,
+MOLIBRESIB,MOLIBRESIB,PO,Autre,Carcinome de la ligne médiane NUT transloqué en cas d’échec d’une chimiothérapie à base de cisplatine,,NMOLI01,
+MOMELOTINIB,MOMELOTINIB,PO,Hématologique,Myélofibrose,,NMOME01,"9003082 (100 mg)
+9003083 (150 mg)
+9003084 (200 mg)"
+MOMELOTINIB,OMJJARA,PO,Hématologique,"Traitement de la splénomégalie ou des symptômes associés chez l'adulte présentant une anémie modérée à sévère et atteint de myélofibrose primitive, de myélofibrose secondaire à une polyglobulie de Vaquez ou de myélofibrose post-thrombocythémie essentielle, qui n'ont jamais reçu d'inhibiteur de JAK ou qui ont été traités par le ruxolitinib",,,
+MOSUNETUZUMAB,LUNSUMIO,IV,Hématologique,En monothérapie pour le traitement des patients adultes atteints d’un lymphome folliculaire (FL) récidivant ou réfractaire qui ont reçu au moins deux traitements systémiques antérieurs,,,
+MÉTHOXSALÈNE,METHOXSALENE MACOPHARMA,,Hématologique,Chez les adultes pour une utilisation extracorporelle dans le traitement palliatif du lymphome cutané à cellules T à un stade avancé chez les patients qui n’ont pas répondu à d’autres formes de traitement.,,,
+MÉTHOXSALÈNE,MÉTHOXSALÈNE MACOPHARMA,Extracorporelle,Hématologique,Chez les adultes pour une utilisation extracorporelle dans le traitement palliatif du lymphome cutané à cellules T à un stade avancé chez les patients qui n’ont pas répondu à d’autres formes de traitement.,,,
+MÉTHOXSALÈNE,UVADEX,Extracorporelle,Hématologique,"Employé conjointement au Système de Photophérèse THERAKOS CELLEX dans le traitement palliatif des manifestations cutanées (placards, plaques étendues, érythrodermie) des lymphomes cutanés à cellules T (CTCL) au stade avancé (T2 - T4), uniquement chez des patients n'ayant pas répondu à d'autres formes de traitement (puvathérapie, corticoïdes systémiques, caryolysine, interféron alpha).",,,
+NAB-PACLITAXEL,ABRAXANE,IV,Digestif,En association avec la gemcitabine est indiqué dans le traitement de première ligne de l’adénocarcinome du pancréas métastatique chez les patients adultes,,,
+NAVITOCLAX,NAVITOCLAX,PO,Hématologique,Leucémie aiguë myéloide,,NNAVI01,9001428
+NELARABINE,ATRIANCE,IV,Hématologique,"Traitement des patients adultes ou pédiatriques ayant une leucémie aiguë lymphoblastique à cellules T (LAL-T) ou un lymphome lymphoblastique à cellules T, non répondeurs ou en rechute après au moins deux lignes de chimiothérapie",I000028,,9304718
+NERATINIB,NERLYNX,,Sein,Traitement adjuvant prolongé des patients adultes ayant un cancer du sein précoce à récepteurs hormonaux positifs caractérisé par une surexpression/amplification de HER2 et ayant terminé le traitement adjuvant à base de trastuzumab depuis moins d'un an,,,
+NILOTINIB,TASIGNA,PO,Hématologique,"Chez l'adulte dans le traitement de la LMC chromosome Philadelphie positive (Ph+) en phase chronique et en phase accélérée, résistant ou intolérant à un traitement antérieur incluant l'imatinib. Les données d'efficacité chez les patients ayant une LMC en crise blastique ne sont pas disponibles.",,,
+NILUTAMIDE,ANANDRON,PO,Uro/néphrologie,"Traitement du cancer de la prostate métastasé en co-prescription avec la castration chirurgicale ou chimique, l’efficacité s’observant chez les patients non traités antérieurement (moins de 10% de réponses lorsqu’une première thérapeutique hormonale a été tentée et s’est avérée inefficace ou dépassée).",,,
+NINTEDANIB,VARGATEF,,Bronchopulmonaire,"En association au docétaxel dans le traitement des patients adultes atteints d’un cancer bronchique non à petites cellules (CBNPC) localement avancé, métastatique, ou en rechute locale, de type histologique adénocarcinome, après une première ligne de chimiothérapie",,,
+NINTÉDANIB,VARGATEF,PO,Bronchopulmonaire,"En association au docétaxel dans le traitement des patients adultes atteints d’un cancer bronchique non à petites cellules (CBNPC) localement avancé, métastatique, ou en rechute locale, de type histologique adénocarcinome, après une première ligne de chimiothérapie",,,
+NIRAPARIB,ZEJULA,PO,Gynécologique,"En monothérapie pour le traitement d’entretien de patientes adultes atteintes d’un cancer épithélial avancé (stades FIGO III et IV) de haut grade de l’ovaire, des trompes de Fallope ou péritonéal primitif, qui sont en réponse (réponse complète ou partielle) à une première ligne de chimiothérapie à base de platine",,,
+NIRAPARIB + ABIRATERONE,AKEEGA,,Uro/néphrologie,En association avec la prednisone ou la prednisolone pour le traitement de première ligne des hommes adultes atteints d’un cancer de la prostate métastatique résistant à la castration (CPRCm) qui sont asymptomatiques ou peu symptomatiques et qui présentent des altérations des gènes BRCA1/2 (germinales et/ou somatiques),,CNIRA03,"9003167 (100/500 mg)
+9003168 (50/500 mg)"
+NIRAPARIB + ABIRATÉRONE,AKEEGA,PO,Uro/néphrologie,En association avec la prednisone ou la prednisolone pour le traitement de première ligne des hommes adultes atteints d’un cancer de la prostate métastatique résistant à la castration (CPRCm) qui sont asymptomatiques ou peu symptomatiques et qui présentent des altérations des gènes BRCA1/2 (germinales et/ou somatiques),,CNIRA03,"9003167 (100/500 mg)
+9003168 (50/500 mg)"
+NIROGACESTAT,NIROGACESTAT,PO,Autre,Tumeur desmoïde,,NNIRO01,"9001185 (10 mg)
+9001186 (50 mg)"
+NIVOLUMAB,OPDIVO,IV,Bronchopulmonaire,"En association à l'ipilimumab et à 2 cycles de chimiothérapie à base de sels de platine, en première ligne, dans le traitement des patients adultes atteints d'un cancer bronchique non à petites cellules métastatique dont les tumeurs ne présentent pas la mutation sensibilisante de l'EGFR, ni la translocation ALK.",,,
+NIVOLUMAB + RELATLIMAB,OPDUALAG,IV,Dermatologique,Traitement de première ligne du mélanome avancé non résécable ou métastatique chez les adultes et adolescents à partir de 12 ans avec une expression PD-L1 des cellules tumorales strictement inférieure à 1%.,,,
+NÉRATINIB,NERLYNX,PO,Sein,Traitement adjuvant prolongé des patients adultes ayant un cancer du sein précoce à récepteurs hormonaux positifs caractérisé par une surexpression/amplification de HER2 et ayant terminé le traitement adjuvant à base de trastuzumab depuis moins d'un an,,,
+OBINUTUZUMAB,GAZYVARO,IV,Hématologique,"En association à la bendamustine en induction, suivi d'un traitement d'entretien par Gazyvaro, est indiqué chez des patients atteints de lymphome folliculaire en cas de non-réponse ou de progression, pendant ou dans les 6 mois suivant un traitement incluant du rituximab",I000400,,9406761
+OLAPARIB,LYNPARZA,PO,Uro/néphrologie,En association à l'abiratérone et la prednisone ou la prednisolone pour le traitement des patients adultes atteints d'un cancer de la prostate métastatique résistant à la castration chez qui une chimiothérapie est contre-indiquée,,COLAP05,"9441929 (100 mg)
+9441935 (150 mg)"
+OLUTASIDENIB,REZLIDHIA,PO,Hématologique,Leucémie aiguë myéloide,,NOLUT01,9003327
+OSIMERTINIB,TAGRISSO,PO,Bronchopulmonaire,"En monothérapie dans le traitement adjuvant, après résection tumorale complète et chimiothérapie adjuvante si indiquée, des patients adultes atteints d’un cancer bronchique non à petites cellules (CBNPC) de stade IB – IIIA avec mutations activatrices du récepteur du facteur de croissance épidermique (EGFR) par délétion de l’exon 19 ou substitution de l’exon 21 (L858R) et présentant un score ECOG 0 ou 1.",,COSIM02,"9416245 (40 mg)
+9416251 (80 mg)"
+OXALIPLATINE,ELOXATINE,IV,Digestif,L'oxaliplatine en association avec le 5-fluorouracile (5-FU) et l'acide folinique (AF) est indiqué dans le traitement adjuvant du cancer du côlon au stade III (stade C de Dukes) après résection complète de la tumeur initiale,,,
+PACLITAXEL,TAXOL,IV,Sein,"Administré seul, traitement des carcinomes métastatiques du sein pour les patientes en échec, ou non candidates, au traitement classique à base d'anthracycline",,,
+PALBOCICLIB,IBRANCE,PO,Sein,"Traitement du cancer du sein localement avancé ou métastatique, positif aux récepteurs hormonaux (RH) et négatif au récepteur du facteur de croissance épidermique humain-2 (human epidermal growth factor receptor 2 [HER2]-négatif) :
+ - en association avec un inhibiteur de l’aromatase ,
+ - en association avec le fulvestrant chez les femmes ayant été traitées antérieurement par hormonothérapie",,,
+PANITUMUMAB,VECTIBIX,IV,Digestif,Traitement des patients adultes atteints d'un cancer colorectal métastatique (CCRm) avec un statut RAS non muté (type sauvage) en première ligne en association avec un protocole FOLFIRI/FOLFOX.,I000402,,"9307160 (200 mg/ 10 mL)
+9307177 (400 mg/ 20 mL)
+9307183 (100 mg/ 5mL)"
+PANOBINOSTAT,FARYDAK,PO,Hématologique,"En association avec le bortézomib et la dexaméthasone, est indiqué pour le traitement des patients adultes atteints de myélome multiple en rechute et/ou réfractaire ayant déjà reçu au moins deux lignes de traitement antérieur incluant du bortézomib et un agent immunomodulateur",,CPANO01,"9413413 (10 mg)
+9413436 (15 mg)
+9413442 (20 mg)"
+PAZOPANIB,VOTRIENT,PO,Uro/néphrologie,Chez l'adulte en traitement de 1re ligne des cancers du rein avancés (RCC) et chez les patients préalablement traités par des cytokines à un stade avancé de leur maladie,,,
+PEGASPARGASE,ONCASPAR,IV,Hématologique,Utilisé en association à d'autres agents antinéoplasiques pour le traitement de la leucémie lymphoblastique aiguë (LLA) chez les patients pédiatriques de la naissance jusqu'à 18 ans et chez les patients adultes,,,
+PEGINTERFERON ALFA-2A,PEGASYS,,Hématologique,"Traitement des syndromes myéloprolifératifs (Thrombocytémie essentielle, polyglobulie vraie, myélofibrose primitive)",,NPEGI01,"9241047
+9241076
+9395388"
+PEGINTERFÉRON ALFA-2A,PEGASYS,SC,Hématologique,"Traitement des syndromes myéloprolifératifs (Thrombocytémie essentielle, polyglobulie vraie, myélofibrose primitive)",,NPEGI01,"9241047
+9241076
+9395388"
+PEMBROLIZUMAB,KEYTRUDA,IV,Bronchopulmonaire,"En association à une chimiothérapie pemetrexed et sel de platine, traitement de première ligne des patients adultes atteints de CBNPC métastatique non-épidermoïde dont les tumeurs ne présentent pas de mutations d’EGFR ou d’ALK.",,,
+PEMETREXED,ALIMTA,IV,Bronchopulmonaire,"En association avec le cisplatine, dans le traitement en première ligne des patients atteints de CBNPC localement avancé ou métastatique, dès lors que l'histologie n'est pas à prédominance épidermoïde.",I000011,,"9311670 (Alimta 100 mg) 9261771 (Alimta 500 mg)
+9417256 (Armisarte 1g) 9417233 (Armisarte 100 mg) 9417227 (Armisarte 500 mg)
+9000998 (Reddy Pharma 1000 mg) 9453660 (Reddy Pharma 100 mg) 9453677 (Reddy Pharma 500 mg)
+9000989 (Accord 1000 mg) 9000985 (Accord 500 mg) 9000988 (Accord 100 mg) 9000986 (Accord 850 mg)
+9000899 (Ever Pharma 1000 mg) 9000896 (Ever Pharma 500 mg) 9000897 (Ever Pharma 100 mg)
+9000531 (Fresenius Kabi 1g) 9000530 (Fresenius Kabi 100 mg) 9000529 (Fresenius Kabi 500 mg)
+9001108 (Hospira 1000 mg) 9001112 (Hospira 1g/40 mL) 9001109 (Hospira 100 mg) 9001110 (Hospira 500 mg/20 mL) 9001114 (Hospira 500 mg) 9001111 (Hospira 100 mg/4 mL)
+9451543 (Stragen 1g) 9451537 (Stragen 100 mg) 9451520 (Stragen 500 mg)
+9442805 (Viatris 1g) 9442797 (Viatris 100 mg) 9442780 (Viatris 500 mg)
+9445778 (Zentiva 1g) 9445761 (Zentiva 100 mg) 9445755 (Zentiva 500 mg)
+9000901 (EG 500 mg) 9000902 (EG 100 mg)
+9001726 (Sun 500 mg)"
+PEMIGATINIB,PEMAZYRE,PO,Digestif,Pemigatinib est indiqué en monothérapie pour le traitement des adultes atteints d’un cholangiocarcinome localement avancé ou métastatique avec fusion ou réarrangement du gène du récepteur 2 du facteur de croissance des fibroblastes (FGFR2) qui sont en rechute ou réfractaires après au moins une ligne de traitement systémique,,,
+PENTOSTATINE,NIPENT,IV,Hématologique,En monothérapie dans le traitement de la leucémie à tricholeucocytes de l'adulte.,I000243,,9160509
+PERTUZUMAB,PERJETA,IV,Sein,"En association au trastuzumab et à une chimiothérapie, dans le traitement adjuvant de patients adultes atteints d'un cancer du sein précoce HER2 positif avec un risque élevé de récidive.",,,
+PERTUZUMAB + TRASTUZUMAB,PHESGO,SC,Sein,"En association à une chimiothérapie, dans le traitement adjuvant de patients adultes atteints d’un cancer du sein précoce HER2 positif avec un risque élevé de récidive",,,
+PEXIDARTINIB,TURALIO,PO,Autre,Tumeur à cellules géantes ténosynoviales,,NTAUR02,9447719
+PIFLUFOLASTAT,PYLCLARI,IV,Uro/néphrologie,"Détection de lésions positives à l’antigène membranaire spécifique de la prostate (PSMA) par tomographie par émission de positons (TEP) chez les adultes atteints d’un cancer de la prostate (CP) dans les situations cliniques suivantes : 
+- Stadification initiale des patients présentant un CP à haut risque avant un traitement initial à visée curative, 
+- Pour localiser une récidive du cancer de la prostate, chez les patients présentant une suspicion de récidive basée sur l’augmentation des concentrations sériques d’antigène prostatique spécifique (PSA) après un traitement initial à visée curative.",,CPIFL01,"9003612
+9003613"
+PIPOBROMAN,VERCYTE,PO,Hématologique,Traitement de la polyglobulie primitive (maladie de Vaquez) chez les patients intolérants ou réfractaires à l'hydroxycarbamide.,,,
+PIRTOBRUTINIB,JAYPIRCA,PO,Hématologique,Traitement des adultes atteints d'un lymphome à cellules du manteau en rechute ou réfractaire précédemment traités par un inhibiteur de la tyrosine kinase de Bruton (BTK).,,,
+PIXANTRONE,PIXUVRI,IV,Hématologique,"En monothérapie chez les adultes atteints d’un lymphome non hodgkinien (LNH) agressif à cellules B, à rechutes multiples ou réfractaire. Le bénéfice du traitement par la pixantrone, utilisée en chimiothérapie de cinquième ligne ou supérieure, n’a pas été établi chez les patients réfractaires au dernier traitement.",,,
+PLERIXAFOR,MOZOBIL,IV,Hématologique,Patients adultes : en association avec le facteur de croissance de la lignée granulocytaire (G-CSF) pour la mobilisation des cellules souches hématopoïétiques dans le sang périphérique avant leur collecte en vue d’une autogreffe chez les patients adultes atteints de lymphome ou de myélome multiple dont les cellules se mobilisent mal.,I000236,,9338516
+POLATUZUMAB,POLIVY,IV,Hématologique,"En association à la bendamustine et au rituximab, dans le traitement des patients adultes présentant un lymphome diffus à grandes cellules B (LDGCB) en rechute ou réfractaire, non candidats à une greffe de cellules souches hématopoïétiques.",,,
+POMALIDOMIDE,IMNOVID,PO,Hématologique,"En association avec la dexaméthasone, dans le traitement du myélome multiple en rechute et réfractaire chez les patients adultes ayant déjà reçu au moins deux traitements antérieurs comportant le lénalidomide et le bortézomib, et dont la maladie a progressé pendant le dernier traitement.",,,
+PONATINIB,ICLUSIG,PO,Hématologique,"Chez les patients adultes atteints de leucémie aiguë lymphoblastique à chromosome Philadelphie (LAL Ph+), qui présentent une résistance au dasatinib , une intolérance au dasatinib et pour qui un traitement ultérieur par imatinib n'est pas cliniquement approprié , ou qui expriment la mutation T315I.",,,
+POZIOTINIB,POZIOTINIB,PO,Bronchopulmonaire,Cancer bronchique non à petites cellules avancé ou métastatique porteurs d’une mutation d’EGFR affectant l’exon 20 ayant déjà reçu une première ligne de traitement et non éligible à un essai clinique actuellement en cours en France,,NPOZI02,
+PRALSETINIB,GAVRETO,PO,Bronchopulmonaire,"Cancer bronchique non à petites cellules (CBNPC), localement avancé ou métastatique, exprimant une fusion positive de RET (REarranged during Transfection), ayant reçu au moins une ligne de traitement à base de sel de platine",,NPRAS02,
+PROCARBAZINE,NATULAN,PO,Bronchopulmonaire,Cancer du poumon à petites cellules (adultes).,,,
+PSMA-1007,ABX-PSMA-1007 1300MBQ/ML,IV,Uro/néphrologie,"La TEP après injection de ABX-PSMA-1007 est indiquée chez un patient en récidive biologique d’un cancer de la prostate avec ré augmentation de la concentration sérique d'antigène spécifique de la prostate (PSA), traité initialement de façon radicale, pour lequel les résultats des examens cliniques, biologiques et d’imagerie comportant obligatoirement une TEP à la fluorocholine (18F) ou à la fluciclovine (18F) sont discordants ou tous négatifs et ne permettent pas de conclure sur la prise en charge du patient.",,CPSMA01,
+PSMA-1007,RADELUMIN,IV,Uro/néphrologie,"Diagnostic dans le cadre d'une TEP chez les patients en récidive biologique d'un cancer de la prostate, traités initialement de façon radicale, avec réaugmentation de la concentration sérique d'antigène spécifique de la prostate (PSA).",,,
+QUIZARTINIB,VANFLYTA,PO,Hématologique,"Renouvellement de traitement chez les patients atteints d'une Leucémie Aiguë Myéloïde (LAM) en rechute ou réfractaire, avec mutation FLT3-ITD positive, un ECG normal et ayant été préalablement traité par quizartinib et pour lesquels l'efficacité et la sécurité du traitement permettent de justifier sa poursuite.
+ - A partir de la 3ème ligne pour les patients éligibles à une chimiothérapie d'induction en vue d'une allo-greffe (patients ayant reçu une première ligne de traitement incluant un protocole d'induction à la greffe, à base d'anthracycline + aracytine et une seconde ligne de traitement incluant un traitement de réinduction ou un agent hypométhylant)
+ - Ou à partir de la 2ème ligne pour les patients non éligibles à une chimiothérapie d'induction en vue d'une allo-greffe (patients ayant reçu un agent hypométhylant).",,NQUIZ01,"9443124 (30 mg)
+9445063 (20 mg)"
+RADIUM 223,XOFIGO,IV,Uro/néphrologie,"En monothérapie ou en association avec un analogue de l’hormone de libération des gonadotrophines hypophysaires (LH-RH pour Luteinising Hormone-Releasing Hormone), chez les patients adultes dans le traitement du cancer de la prostate métastatique résistant à la castration (CPmRC), avec métastases osseuses symptomatiques et sans métastases viscérales connues, en progression après au moins deux lignes antérieures de traitement systémique du CPmRC (autres que les analogues de la LH-RH) ou inéligibles à tous les traitements systémiques du CPmRC disponibles.",I000504,,9397542
+RALTITREXED,TOMUDEX,IV,Digestif,Traitement de la progression métastatique des cancers colorectaux chez des malades n’ayant pas reçu de fluoropyrimidine dans cette situation.,,,
+RAMUCIRUMAB,CYRAMZA,IV,Bronchopulmonaire,"En association avec l’erlotinib, est indiqué dans le traitement de première ligne des patients adultes atteints d’un cancer bronchique non à petites cellules métastatique avec mutations activatrices du récepteur du facteur de croissance épidermique (EGFR).",,,
+REGORAFENIB,RÉGORAFENIB,,Autre,Sarcome d'Ewing,,NREGO01,
+REGORAFENIB,STIVARGA,,Digestif,En monothérapie dans le traitement des patients adultes atteints d’un carcinome hépatocellulaire (CHC) qui ont été traités antérieurement par sorafénib.,,,
+RELUGOLIX,ORGOVYX,PO,Uro/néphrologie,Traitement des patients adultes atteints d'un cancer avancé de la prostate hormono-sensible,,,
+REPOTRECTINIB,REPOTRECTINIB,PO,Bronchopulmonaire,"Cancer bronchique non à petites cellules avancé ou métastatique ROS1-positif, chez des patients adultes ayant déjà reçu une première ligne de traitement par Crizotinib",,NREPO03,9001028
+REVUMENIB,REVUMENIB,PO,Hématologique,Leucémie aigüe myéloïde,,NREVU01,"9003712 (50 mg/mL)
+9000488
+9003710"
+RIBOCICLIB,KISQALI,PO,Sein,"Chez les femmes dans le traitement du cancer du sein au stade localement avancé ou métastatique, avec récepteurs hormonaux (RH) positifs et récepteurs du facteur de croissance épidermique humain 2 (human epidermal growth factor receptor 2 [HER2]) négatifs en association avec un inhibiteur de l’aromatase ou avec le fulvestrant comme traitement initial à base d’hormonothérapie, ou chez les femmes traitées antérieurement par hormonothérapie.
+ Chez les femmes en pré/périménopause, l’hormonothérapie doit être associée à un agoniste de l’hormone de libération de la lutéinostimuline (luteinising hormone releasing hormone, LHRH).",,,
+RIPRETINIB,QINLOCK,PO,Digestif,"QINLOCK est indiqué dans le traitement des patients adultes atteints d’une tumeur stromale gastro-intestinale (GIST) avancée, ayant reçu au préalable un traitement par au moins trois inhibiteurs de la kinase, dont l’imatinib.",,CRIPR01,9002069
+RIPRETINIB,RIPRETINIB,PO,Digestif,Tumeur gastro-intestinale (GIST) inopérable ou métastatique chez les patients ayant déjà reçu au moins 3 lignes de traitement par ITK (dont l’Imatinib).,,NRIPR03,
+RITUXIMAB,MABTHERA,,Hématologique,"Chez les patients adultes atteints de LLC : en association à une chimiothérapie pour le traitement des patients atteints de LLC, non précédemment traités et en rechute ou réfractaires. Les données disponibles sur l'efficacité et la tolérance sont limitées chez les patients précédemment traités par des anticorps monoclonaux dont MabThera, ou chez les patients réfractaires à un traitement antérieur par MabThera en association à une chimiothérapie.",I000232,,"9197702 (100 mg)
+9197719 (500 mg)"
+RITUXIMAB,MABTHÉRA,IV,Hématologique,"Chez les patients adultes atteints de LLC : en association à une chimiothérapie pour le traitement des patients atteints de LLC, non précédemment traités et en rechute ou réfractaires. Les données disponibles sur l'efficacité et la tolérance sont limitées chez les patients précédemment traités par des anticorps monoclonaux dont MabThera, ou chez les patients réfractaires à un traitement antérieur par MabThera en association à une chimiothérapie.",I000232,,"9197702 (100 mg)
+9197719 (500 mg)"
+RITUXIMAB,RIXATHON,IV,Cf. médicament de référence,Autres indications => Voir Mabthéra (médicament biologique de référence),Cf. médicament de référence,,"9427450 (100 mg)
+9427467 (500 mg)"
+RITUXIMAB,RUXIENCE,IV,Cf. médicament de référence,Autres indications => Voir Mabthéra (médicament biologique de référence),Cf. médicament de référence,,"9000391 (100 mg)
+9000392 (500 mg)"
+RITUXIMAB,TRUXIMA,IV,Cf. médicament de référence,Autres indications => Voir Mabthéra (médicament biologique de référence),Cf. médicament de référence,,"9428165 (100 mg)
+9423831 (500 mg)"
+ROMIDEPSINE,ISTODAX,IV,Hématologique,"Lymphome T cutané chez l'adulte en rechute ou réfractaire, et taux de plaquettes ≥ 75 G/L, et taux de polynucléaires neutrophiles ≥ 1.5 G/L",,NROMI02,9374073
+RUCAPARIB,RUBRACA,PO,Gynécologique,"En monothérapie pour le traitement d’entretien de patientes adultes atteintes d’un cancer épithélial de l’ovaire, de la trompe de Fallope ou péritonéal primitif, de haut grade, récidivant, sensible au platine, qui sont en réponse (complète ou partielle) à une chimiothérapie à base de platine.",,,
+RUXOLITINIB,JAKAVI,PO,Hématologique,"Traitement de la splénomégalie ou des symptômes liés à la maladie chez l'adulte atteint de myélofibrose primitive (appelée également myélofibrose chronique idiopathique), de myélofibrose secondaire à la maladie de Vaquez (polycythémie vraie) ou de myélofibrose secondaire à la thrombocytémie essentielle",,,
+RÉGORAFÉNIB,REGORAFENIB,,Autre,Sarcome d'Ewing,,NREGO01,
+RÉGORAFÉNIB,RÉGORAFENIB,PO,Autre,Sarcome d'Ewing,,NREGO01,
+RÉGORAFÉNIB,STIVARGA,PO,Digestif,En monothérapie dans le traitement des patients adultes atteints d’un carcinome hépatocellulaire (CHC) qui ont été traités antérieurement par sorafénib.,,,
+SACITUZUMAB GOVITECAN,TRODELVY,IV,Sein,"En monothérapie pour le traitement des patients adultes atteints d’un cancer du sein RH positifs / HER2 négatifs (IHC 0, IHC 1+ ou IHC 2+/ISH-) non résécable ou métastatique, ayant reçu au moins deux lignes de chimiothérapie au stade métastatique",,CSACI02,9001995
+SELINEXOR,NEXPOVIO,PO,Hématologique,"En association avec la dexaméthasone pour le traitement du myélome multiple chez les patients adultes qui ont reçu au moins quatre traitements antérieurs et dont la maladie est réfractaire à au moins deux inhibiteurs du protéasome, deux immunomodulateurs et un anticorps monoclonal anti-CD38, et chez qui la maladie a progressé lors du dernier traitement",,,
+SELINEXOR,SELINEXOR,PO,Hématologique,"Traitement du lymphome B diffus à grandes cellules, de haut grade, en rechute ou réfractaire, en monothérapie après au moins 2 lignes de traitement incluant des anthracyclines et un anti-CD20 (rituximab) ET chez les patients inéligibles à la chimiothérapie intensive et à la greffe",,NSELI01,
+SELITRECTINIB LOXO-195,SELITRECTINIB ,PO,Neuroendocrine,Traitement des carcinomes liés à une fusion NTRK traité antérieurement par un inhibiteur de TRK,,NLOXO01,"9000914 (50 mg)
+9001045 (20 mg/mL)"
+SELPERCATINIB,RETSEVMO,PO,Bronchopulmonaire,"En première ligne dans le traitement des patients adultes atteints d'un cancer du poumon non à petites cellules (NAPC) avancé présentant une fusion du gène RET, non précédemment traités par un inhibiteur de RET,",,,
+SELPERCATINIB LOXO-292,SELPERCATINIB ,PO,Digestif,"Tumeur hépatocellulaire NOS métastatique, avec mutation délétère constitutionnelle de RET",,NLOXO02,9450093
+SELUMETINIB,KOSELUGO,,Autre,En monothérapie dans le traitement des neurofibromes plexiformes (NFP) symptomatiques inopérables liés à la neurofibromatose de type 1 (NF1) chez les patients pédiatriques âgés de 3 ans et plus.,,,
+SINTILIMAB,SINTILIMAB,IV,Tête et cou,Cancer de l'oesophage,,NSINT01,9003663
+SONIDEGIB,ODOMZO,PO,Dermatologique,Traitement des patients adultes présentant un carcinome basocellulaire (CBC) localement avancé qui ne relève pas d'une chirurgie curative ou d'une radiothérapie,,,
+SONIDEGIB,SONIDEGIB LDE225,PO,Tête et cou,"Médulloblastome, avec activation de la voie SHH, en rechute du traitement standard chez l’enfant",,NSONI01,9445057
+SORAFENIB,NEXAVAR,,Digestif,Traitement du carcinome hépatocellulaire chez les patients de bon pronostic ayant une cirrhose hépatique de stade Child-Pugh A et non éligibles en première intention à un traitement chirurgical ou locorégional ou après échec de ces traitements ainsi que dans le traitement du carcinome thyroïdien différencié.,,,
+SORAFÉNIB,NEXAVAR,PO,Digestif,Traitement du carcinome hépatocellulaire chez les patients de bon pronostic ayant une cirrhose hépatique de stade Child-Pugh A et non éligibles en première intention à un traitement chirurgical ou locorégional ou après échec de ces traitements ainsi que dans le traitement du carcinome thyroïdien différencié.,,,
+SOTORASIB,LUMYKRAS,PO,Bronchopulmonaire,"En monothérapie, des patients atteints d'un cancer bronchique non à petites cellules (CBNPC) avancé, présentant la mutation KRAS G12C, dont la maladie a progressé après au moins une ligne de traitement systémique antérieur.",,CSOTO01,9001858
+SOTORASIB,SOTORASIB ,PO,Bronchopulmonaire,"Monothérapie dans le traitement des patients adultes atteints d’un cancer bronchique non à petites cellules (CBNPC) KRAS p.G12C muté localement avancé, prétraités",,NSOTO05,
+SUNITINIB,SUTENT,PO,Uro/néphrologie,Traitement des cancers du rein avancés/métastatiques (MRCC) chez l'adulte.,,,
+SÉLUMÉTINIB,KOSELUGO,PO,Autre,En monothérapie dans le traitement des neurofibromes plexiformes (NFP) symptomatiques inopérables liés à la neurofibromatose de type 1 (NF1) chez les patients pédiatriques âgés de 3 ans et plus.,,,
+TABELECLEUCEL,EBVALLO,IV,Hématologique,En monothérapie des adultes et enfants âgés de deux ans et plus atteints d'une maladie lymphoproliférative post-transplantation et positive au virus d'Epstein-Barr récidivante ou réfractaire (LPT EBV+) qui ont reçu au moins un traitement antérieur,,CTABE01,9003088
+TAFASITAMAB,MINJUVI,IV,Hématologique,"MINJUVI est indiqué en association avec le lénalidomide, suivi par MINJUVI en monothérapie pour le traitement des patients adultes atteints d’un lymphome diffus à grandes cellules B (LDGCB) en rechute ou réfractaire, en 2ème ligne de traitement non éligibles à une autogreffe de cellules souches hématopoïétiques ou en 3ème ligne et plus, seulement chez les patients éligibles aux médicaments à base de CAR-T (KYMRIAH et YESCARTA)",,,
+TAFASITAMAB,TAFASITAMAB,IV,Hématologique,Lymphome à cellules B,,NTAFA01,
+TAGRAXOFUSP,ELZONRIS,IV,Hématologique,En monothérapie dans le néoplasme à cellules dendritiques plasmocytoïdes chez les patients âgés de 18 ans et plus,,NTAGR01,
+TALAZOPARIB,TALZENNA,PO,Sein,"En monothérapie pour le traitement des patients adultes atteints d'un cancer du sein localement avancé ou métastatique HER2 négatif et présentant des mutations germinales BRCA1/2. Les patients doivent avoir été précédemment traités par une anthracycline et/ou un taxane au stade (néo)adjuvant, localement avancé ou métastatique, sauf s'ils n'étaient pas éligibles à ce type de traitement (cf Pharmacodynamie). Les patients atteints d'un cancer du sein positif aux récepteurs hormonaux (RH) doivent préalablement avoir reçu une hormonothérapie ou être considérés comme non éligibles à une hormonothérapie",,,
+TALQUETAMAB,TALVEY,IV,Hématologique,"En monothérapie dans le traitement des patients adultes atteints de myélome multiple récidivant et réfractaire, qui ont reçu au moins trois traitements antérieurs, y compris un agent immunomodulateur, un inhibiteur du protéasome et un anticorps anti-CD38, et dont la maladie a progressé après le dernier traitement.",,,
+TAMOXIFENE,NOLVADEX,,Sein,Traitement du carcinome mammaire soit en traitement adjuvant (traitement préventif des récidives) soit en traitement des formes évoluées avec progression locale et/ou métastatique. L'efficacité de cette thérapeutique est plus importante chez les femmes dont la tumeur contient des récepteurs de l'estradiol et/ou de la progestérone.,,,
+TAMOXIFÈNE,NOLVADEX,PO,Sein,Traitement du carcinome mammaire soit en traitement adjuvant (traitement préventif des récidives) soit en traitement des formes évoluées avec progression locale et/ou métastatique. L'efficacité de cette thérapeutique est plus importante chez les femmes dont la tumeur contient des récepteurs de l'estradiol et/ou de la progestérone.,,,
+TAZEMETOSTAT,TAZVERIK,PO,Autre,Sarcome épithélioïde avancé non résécable,,NTAZE02,"9001051 (200 mg)
+9001052 (2g)"
+TEBENTAFUSP,KIMMTRAK,IV,Autre,En monothérapie pour le traitement des patients adultes HLA-A*02 :01-positifs atteints de mélanome uvéal non résécable ou métastatique,,CTEBE01,9002573
+TEBENTAFUSP,TEBENTAFUSP ,IV,Autre,Mélanome uvéal,,NTEBE01,
+TECLISTAMAB,TECLISTAMAB,SC,Hématologique,"Traitement, à partir de la 4e ligne, du myélome multiple en rechute et réfractaire chez l'adulte ayant reçu au moins trois traitements antérieurs, dont un agent immunomodulateur, un inhibiteur de protéasome et un anticorps anti-CD38 et dont la maladie s'est aggravée depuis le dernier traitement.",,NTECL01,
+TECLISTAMAB,TECVAYLI,SC,Hématologique,"En monothérapie, pour le traitement des patients adultes atteints d’un myélome multiple en rechute et réfractaire, ayant reçu au moins trois traitements antérieurs, incluant un agent immuno-modulateur, un inhibiteur du protéasome et un anticorps anti-CD38 et dont la maladie a progressé pendant le dernier traitement, lorsque toutes les options thérapeutiques ont été épuisées (hors thérapies cellulaires), sur l’avis d’une réunion de concertation pluridisciplinaire (RCP)",,CTECL01,"9002653 (10 mg/mL)
+9002654 (90 mg/mL)"
+TEGAFUR/GIMERACIL/OTERACIL,TEYSUNO,,Digestif,"En monothérapie ou en association à l'oxaliplatine ou à l'irinotécan, avec ou sans bévacizumab, pour le traitement des patients atteints d'un cancer colorectal métastatique pour lesquels il n'est pas possible de poursuivre le traitement avec une autre fluoropyrimidine en raison d'un syndrome main-pied ou d'une toxicité cardiovasculaire en phase adjuvante ou métastatique",,,
+TELISOTUZUMAB VEDOTIN,TELISOTUZUMAB VEDOTIN,IV,Bronchopulmonaire,Cancer bronchique non à petites cellules,,NTELI01,9003657
+TEMOZOLOMIDE,KIMOZO,PO,SNC,"En monothérapie ou en association à un inhibiteur spécifique de l'ADN topoisomérase I (irinotécan ou topotecan) dans le traitement des patients pédiatriques âgés de 1 à 6 ans et chez les patients âgés de plus de 6 ans dans l’incapacité d’avaler le témozolomide sous forme de gélule et atteints : 
+- d’un neuroblastome à haut risque réfractaire ou présentant une réponse insuffisante à la chimiothérapie d’induction. 
+- d’un neuroblastome à haut risque récidivant après une réponse au moins partielle à la chimiothérapie d’induction suivie d’un traitement myéloablatif et d’une greffe de cellules souches",,CTEMO01,9002292
+TEMOZOLOMIDE,TEMODAL,IV,SNC,"Traitement des enfants à partir de 3 ans, des adolescents et des patients adultes atteints d'un gliome malin, tel que glioblastome multiforme ou astrocytome anaplasique, présentant une récidive ou une progression après un traitement standard.",,,
+TEMSIROLIMUS,TORISEL,IV,Uro/néphrologie,Traitement de première intention du carcinome rénal (CR) avancé chez les patients adultes présentant au moins 3 des 6 facteurs de risque pronostique.,I000352,,9304776
+TEPOTINIB,TEPMETKO,PO,Bronchopulmonaire,Cancer bronchique non à petites cellules avancé ou métastatique porteurs d’une mutation de c-MET affectant l’exon 14,,NTEPO03,
+THALIDOMIDE,THALIDOMIDE,PO,Hématologique,"En association au melphalan et à la prednisone, pour le traitement de première ligne des patients âgés de plus de 65 ans présentant un myélome multiple non traité ou présentant une contre-indication à la chimiothérapie à haute dose.",,,
+THIOGUANINE,LANVIS,PO,Hématologique,Traitement des leucémies aiguës lymphoides,,,
+THIOTHEPA,TEPADINA,,Hématologique,"TEPADINA est indiqué, en association avec d'autres chimiothérapies :
+ - avec ou sans irradiation corporelle totale (TBI), comme traitement de conditionnement préalable à une greffe allogénique ou autologue de cellules souches hématopoïétiques (GCSH), dans les maladies hématologiques de patients adultes et pédiatriques ,
+ - lorsqu'une chimiothérapie intensive avec support d'une GCSH est appropriée pour le traitement de tumeurs solides chez les patients adultes et pédiatrique",,,
+THIOTHEPA,THIOTHÉPA GENOPHARM,,Autre,"Cancer de l’ovaire
+Cancer du sein
+Cancer de la vessie (en instillation vésicale)",,,
+THIOTHÉPA,TEPADINA,IV,Hématologique,"TEPADINA est indiqué, en association avec d'autres chimiothérapies :
+ - avec ou sans irradiation corporelle totale (TBI), comme traitement de conditionnement préalable à une greffe allogénique ou autologue de cellules souches hématopoïétiques (GCSH), dans les maladies hématologiques de patients adultes et pédiatriques ,
+ - lorsqu'une chimiothérapie intensive avec support d'une GCSH est appropriée pour le traitement de tumeurs solides chez les patients adultes et pédiatrique",,,
+THIOTHÉPA,THIOTHEPA GENOPHARM,,Autre,"Cancer de l’ovaire
+Cancer du sein
+Cancer de la vessie (en instillation vésicale)",,,
+THIOTHÉPA,THIOTHÉPA GENOPHARM,IV,Autre,"Cancer de l’ovaire
+Cancer du sein
+Cancer de la vessie (en instillation vésicale)",,,
+TIPIFARNIB,TIPIFARNIB,PO,Autre,"Tumeur maligne avancée non hématologique avec mutation HRAS, après échec des traitements de référence",,NTIPI01,9431902
+TISAGENLECLEUCEL,KYMRIAH,IV,Hématologique,Traitement des patients adultes atteints d’un lymphome diffus à grandes cellules B réfractaire ou en rechute après la deuxième ligne ou plus d’un traitement systémique ,I000478,,9439938
+TISLELIZUMAB,TEVIMBRA,IV,Digestif,"Carcinome épidermoïde de l'œsophage non résécable, localement avancé ou métastatique après une chimiothérapie à base de sel de platine.",,,
+TIVOZANIB,FOTIVDA,PO,Uro/néphrologie,Traitement de première ligne chez des patients adultes atteints d’un carcinome à cellules rénales (CCR) avancé et chez des patients adultes n’ayant jamais reçu d’inhibiteur des voies VEGFR et mTOR suite à une progression de la maladie après un traitement antérieur par cytokine pour leur CCR avancé.,,,
+TOPOTECAN,HYCAMTIN,,Gynécologique,"En association avec le cisplatine, chez les patientes présentant un carcinome du col de l’utérus en rechute après radiothérapie ou chez les patientes présentant un stade IV-B de la maladie. Chez les patientes ayant été préalablement exposées au cisplatine, il est nécessaire de respecter un intervalle libre de traitement suffisant afin de justifier un traitement par l’association",,,
+TOPOTÉCAN,HYCAMTIN,IV,Gynécologique,"En association avec le cisplatine, chez les patientes présentant un carcinome du col de l’utérus en rechute après radiothérapie ou chez les patientes présentant un stade IV-B de la maladie. Chez les patientes ayant été préalablement exposées au cisplatine, il est nécessaire de respecter un intervalle libre de traitement suffisant afin de justifier un traitement par l’association",,,
+TOREMIFENE,FARESTON,,Sein,Traitement hormonal de première intention du cancer métastatique du sein hormono-sensible de la femme ménopausée. L'administration de Fareston n'est pas recommandée chez les patientes dont les tumeurs n'ont pas de récepteurs aux estrogènes.,,,
+TORÉMIFÈNE,FARESTON,PO,Sein,Traitement hormonal de première intention du cancer métastatique du sein hormono-sensible de la femme ménopausée. L'administration de Fareston n'est pas recommandée chez les patientes dont les tumeurs n'ont pas de récepteurs aux estrogènes.,,,
+TRABECTEDINE,YONDELIS,,Gynécologique,En association avec la doxorubicine liposomale pégylée (DLP) est indiqué chez les patientes atteintes de cancer des ovaires récidivant sensible au platine.,I000383,,"9003102 (Ever pharma 0,25 mg)
+9003103 (Ever pharma 1 mg)
+9002041 (Teva 0,25mg)
+9002042 (Teva 1 mg)
+9290519 (Yondelis 0,25 mg)
+9290525 (Yondelis 1 mg)"
+TRABECTEDINE,YONDÉLIS,,Sarcome,"Chez les patients adultes atteints de sarcome des tissus mous évolué, après échec de traitements à base d'anthracyclines et d'ifosfamide, ou chez les patients ne pouvant pas recevoir ces médicaments. Les données d'efficacité ont principalement été obtenues chez des patients atteints de liposarcome et de léiomyosarcome.",I000382,,"9002041 (Teva 0,25mg)
+9002042 (Teva 1 mg)
+9290519 (Yondelis 0,25 mg)
+9290525 (Yondelis 1 mg)"
+TRABECTÉDINE,YONDELIS,IV,Gynécologique,En association avec la doxorubicine liposomale pégylée (DLP) est indiqué chez les patientes atteintes de cancer des ovaires récidivant sensible au platine.,I000383,,"9003102 (Ever pharma 0,25 mg)
+9003103 (Ever pharma 1 mg)
+9002041 (Teva 0,25mg)
+9002042 (Teva 1 mg)
+9290519 (Yondelis 0,25 mg)
+9290525 (Yondelis 1 mg)"
+TRABECTÉDINE,YONDÉLIS,IV,Sarcome,"Chez les patients adultes atteints de sarcome des tissus mous évolué, après échec de traitements à base d'anthracyclines et d'ifosfamide, ou chez les patients ne pouvant pas recevoir ces médicaments. Les données d'efficacité ont principalement été obtenues chez des patients atteints de liposarcome et de léiomyosarcome.",I000382,,"9002041 (Teva 0,25mg)
+9002042 (Teva 1 mg)
+9290519 (Yondelis 0,25 mg)
+9290525 (Yondelis 1 mg)"
+TRAMETINIB,MEKINIST,,Dermatologique,"En association au dabrafénib dans le traitement adjuvant des patients adultes atteints d'un mélanome de stade III porteurs d'une mutation BRAF V600, après résection complète.",,,
+TRAMETINIB,SPEXOTRAS,,SNC,En association au dabrafénib dans le traitement des patients pédiatriques âgés de 1 an et plus atteints d’un gliome de bas grade (GBG) porteur d’une mutation BRAF V600E qui nécessitent un traitement par voie systémique,,CDABA01,9443294
+TRAMETINIB,TRAMÉTINIB,,SNC,Gliome de bas grade BRAFV600E en association à dabrafenib,,NTRAM09,9443294
+TRAMÉTINIB,MEKINIST,PO,Dermatologique,"En association au dabrafénib dans le traitement adjuvant des patients adultes atteints d'un mélanome de stade III porteurs d'une mutation BRAF V600, après résection complète.",,,
+TRAMÉTINIB,SPEXOTRAS,PO,SNC,En association au dabrafénib dans le traitement des patients pédiatriques âgés de 1 an et plus atteints d’un gliome de bas grade (GBG) porteur d’une mutation BRAF V600E qui nécessitent un traitement par voie systémique,,CDABA01,9443294
+TRAMÉTINIB,TRAMETINIB,,SNC,Gliome de bas grade BRAFV600E en association à dabrafenib,,NTRAM09,9443294
+TRAMÉTINIB,TRAMÉTINIB,PO,SNC,Gliome de bas grade BRAFV600E en association à dabrafenib,,NTRAM09,9443294
+TRASTUZUMAB,HERCEPTIN,IV,Digestif,"Traitement de l'adénocarcinome métastatique de l'estomac ou de la jonction œsogastrique HER2 positif, en association à la capécitabine ou au 5-fluoro-uracile et au cisplatine, chez les patients adultes n'ayant pas été précédemment traités pour leur maladie métastatique. 
+Utilisé uniquement chez les patients atteints d'un cancer gastrique métastatique dont les tumeurs présentent une surexpression de HER2 définie par IHC2+ confirmée par un résultat FISH+ ou SISH+, ou par IHC3+. Des méthodes d'analyse précises et validées doivent être utilisées",I000167,,9220097
+TRASTUZUMAB,HERZUMA,IV,Cf. médicament de référence,Autres indications => Voir Herceptin (médicament biologique de référence),Cf. médicament de référence,,"9435604 (150 mg)
+9442455 (420 mg)"
+TRASTUZUMAB,KANJINTI,IV,Cf. médicament de référence,Autres indications => Voir Herceptin (médicament biologique de référence),Cf. médicament de référence,,"9438761 (150 mg)
+9438778 (420 mg)"
+TRASTUZUMAB,OGIVRI,IV,Cf. médicament de référence,Autres indications => Voir Herceptin (médicament biologique de référence),Cf. médicament de référence,,"9444069 (150 mg)
+9450555 (420 mg)"
+TRASTUZUMAB,ONTRUZANT,IV,Cf. médicament de référence,Autres indications => Voir Herceptin (médicament biologique de référence),Cf. médicament de référence,,"9438347 (150 mg)
+9447441 (420 mg)"
+TRASTUZUMAB,TRAZIMERA,IV,Cf. médicament de référence,Autres indications => Voir Herceptin (médicament biologique de référence),Cf. médicament de référence,,"9441728 (150 mg)
+9449546 (420 mg)"
+TRASTUZUMAB,ZERCEPAC,IV,Cf. médicament de référence,Autres indications => Voir Herceptin (médicament biologique de référence),Cf. médicament de référence,,"9000666 (150 mg)
+9001647 (420 mg)
+9001648 (60 mg)"
+TRASTUZUMAB DERUXTECAN,ENHERTU,IV,Sein,"En monothérapie pour le traitement des patients adultes atteints d’un cancer du sein HER2- faible (IHC 1+ ou IHC 2+/ISH-) non résécable ou métastatique qui ont reçu au moins une ligne de chimiothérapie au stade métastatique ou qui ont développé une récidive de la maladie pendant ou dans les 6 mois suivant la fin d’une chimiothérapie adjuvante. 
+Les patients atteints d’un cancer du sein avec des récepteurs hormonaux positifs doivent aussi avoir reçu au moins une hormonothérapie et être non éligibles à une nouvelle ligne d’hormonothérapie ",,CDERU04,9001055
+TRASTUZUMAB EMTANSINE,KADCYLA,IV,Sein,"En monothérapie, est indiqué dans le traitement adjuvant de patients adultes atteints d’un cancer du sein précoce HER2 positif qui présentent une maladie résiduelle invasive, au niveau du sein et/ou des ganglions lymphatiques, après un traitement néoadjuvant à base de taxane et d’un traitement anti-HER2.",I000506,,"9400043 (100 mg)
+9400066 (160 mg)"
+TREMELIMUMAB,IMJUDO,,Digestif,"En association avec IMFINZI dans le traitement de première ligne des patients adultes atteints d'un carcinome hépatocellulaire (CHC) avancé ou non résécable, avec une fonction hépatique préservée (stade Child-Pugh A), avec un score ECOG 0 ou 1, non éligibles aux traitements locorégionaux ou en échec à l’un de ces traitements, et non éligibles à un traitement par l’association atezolizumab bevacizumab",,CTREM01,"9003121 (flacon 1,25 mL)
+9003122 (flacon 15 mL)"
+TREOSULFAN,TRECONDI,,Hématologique,En assocation avec la fludarabine comme traitement de conditionnement préalabale à une greffe allogénique de cellules souches hématopoiétiques (CSH) chez les patients adultes et les enfants âgés de plus d'un mois et les adolescents atteints de pathologies malignes,,,
+TRIFLURIDINE ET TIPIRACIL,LONSURF,PO,Digestif,"En monothérapie chez les adultes atteints d’un cancer colorectal métastatique (CCRm) :
+ - précédemment traités par les traitements disponibles comprenant les chimiothérapies à base de fluoropyrimidine, d’oxaliplatine et d’irinotecan, les agents anti-VEGF et les agents antiEGFR,
+ - ou qui ne sont pas éligibles à ces traitements.",,,
+TRIPTORELINE,DECAPEPTYL,IM,Sein,"Traitement adjuvant, en association avec le tamoxifène ou un inhibiteur de l'aromatase, du cancer du sein hormonosensible à un stade précoce chez des femmes à haut risque de récidive, confirmées comme non ménopausées à l’issue d’une chimiothérapie.
+ 
+Uniquement pour les formes LP 3 mg (IM)",,,
+TRIPTORELINE,GONAPEPTYL,"IM
+ SC",Uro/néphrologie,Traitement du cancer de la prostate hormono-dépendant localement avancé ou métastatique.,,,
+TRÉMÉLIMUMAB,IMJUDO,IV,Digestif,"En association avec IMFINZI dans le traitement de première ligne des patients adultes atteints d'un carcinome hépatocellulaire (CHC) avancé ou non résécable, avec une fonction hépatique préservée (stade Child-Pugh A), avec un score ECOG 0 ou 1, non éligibles aux traitements locorégionaux ou en échec à l’un de ces traitements, et non éligibles à un traitement par l’association atezolizumab bevacizumab",,CTREM01,"9003121 (flacon 1,25 mL)
+9003122 (flacon 15 mL)"
+TRÉOSULFAN,TRECONDI,IV,Hématologique,En assocation avec la fludarabine comme traitement de conditionnement préalabale à une greffe allogénique de cellules souches hématopoiétiques (CSH) chez les patients adultes et les enfants âgés de plus d'un mois et les adolescents atteints de pathologies malignes,,,
+TUCATINIB,TUKYSA,PO,Sein,Tucatinib est indiqué en association avec trastuzumab et capécitabine chez les patients adultes atteints d'un cancer du sein HER2+ localement avancé non résécable ou métastatique (y compris avec des métastases cérébrales) ayant progressé après deux lignes de traitement anti-HER2,,,
+TÉGAFUR/GIMÉRACIL/OTÉRACIL,TEYSUNO,PO,Digestif,"En monothérapie ou en association à l'oxaliplatine ou à l'irinotécan, avec ou sans bévacizumab, pour le traitement des patients atteints d'un cancer colorectal métastatique pour lesquels il n'est pas possible de poursuivre le traitement avec une autre fluoropyrimidine en raison d'un syndrome main-pied ou d'une toxicité cardiovasculaire en phase adjuvante ou métastatique",,,
+VANDETANIB,CAPRELSA,,Neuroendocrine,"Dans le traitement du cancer médullaire de la thyroïde (CMT) agressif et symptomatique chez les patients avec une maladie localement avancée non opérable ou métastatique (adolescents et enfants âgés de plus de 5 ans).
+Chez les patients pour lesquels la mutation réarrangée au cours d'une transfection (RET) n’est pas connue ou est négative, l’éventualité d’un bénéfice plus faible doit être prise en considération avant la décision d’un traitement individuel",,,
+VANDÉTANIB,CAPRELSA,PO,Neuroendocrine,"Dans le traitement du cancer médullaire de la thyroïde (CMT) agressif et symptomatique chez les patients avec une maladie localement avancée non opérable ou métastatique (adolescents et enfants âgés de plus de 5 ans).
+Chez les patients pour lesquels la mutation réarrangée au cours d'une transfection (RET) n’est pas connue ou est négative, l’éventualité d’un bénéfice plus faible doit être prise en considération avant la décision d’un traitement individuel",,,
+VEMURAFENIB,ZELBORAF,,Dermatologique,En monothérapie dans le traitement des patients adultes atteints d'un mélanome non résécable ou métastatique porteur d'une mutation BRAF V600.,,,
+VENETOCLAX,VENCLYXTO,PO,Hématologique,"En association avec l’obinutuzumab, est indiqué pour le traitement des patients adultes atteints d’une Leucémie Lymphoïde Chronique (LLC) non précédemment traités.",,,
+VINCRISTINE,ONCOVIN,IV,Hématologique,Monochimiothérapie dans les leucémies aiguës lymphoblastiques (en association avec des corticoides),,,
+VINCRISTINE LIPOSOMALE,MARQIBO KIT,IV,Hématologique,"Traitement de la leucémie aigüe lymphoblastique Phi négatif réfractaire ou en rechute à au moins deux lignes de traitement, dont au moins une ligne ayant permis une réponse complète, non éligible à une greffe au moment de la demande d’ATU et en l’absence de neuropathie sévère pré-existante ou de maladie démyélinisante sous-jacente, notamment le syndrome de Charcot Marie Tooth.",,NVINC01,9423446
+VINDESINE,ELDISINE,IV,Hématologique,"Leucémies aiguës lymphoblastiques et lymphomes réfractaires à la chimiothérapie (autres agents cytostatiques).
+Certaines tumeurs solides : sein, œsophage, voies aérodigestives supérieures, cancer broncho-pulmonaire.",,,
+VINFLUNINE,JAVLOR,IV,Uro/néphrologie,"En monothérapie pour le traitement des patients adultes atteints de carcinome urothélial à cellules transitionnelles avancé ou métastatique après échec d'un traitement préalable à base de platine. 
+ L'efficacité et la tolérance de vinflunine n'ont pas été étudiées chez les patients avec un performance status (PS) ≥ 2.",,,
+VINORELBINE,NAVELBINE,IV,Bronchopulmonaire,Cancer du poumon non à petites cellules.,,,
+VISMODEGIB,ERIVEDGE,,Dermatologique,Traitement des patients adultes atteints de carcinome baso-cellulaire localement avancé pour lequel la chirurgie ou la radiothérapie ne sont pas appropriées.,,,
+VISMODÉGIB,ERIVEDGE,PO,Dermatologique,Traitement des patients adultes atteints de carcinome baso-cellulaire localement avancé pour lequel la chirurgie ou la radiothérapie ne sont pas appropriées.,,,
+VORINOSTAT,ZOLINZA,PO,Dermatologique,Traitement des manifestations cutanées chez des patients présentant un lymphome T cutané (CTCL) en rechute ou réfractaire à au moins deux lignes de traitement intraveineux.,,NVORI01,
+VÉMURAFÉNIB,ZELBORAF,PO,Dermatologique,En monothérapie dans le traitement des patients adultes atteints d'un mélanome non résécable ou métastatique porteur d'une mutation BRAF V600.,,,
+ZAMTOCABTAGENE AUTOLEUCEL,MB-CART2019.1 2.5 106 CELLULES/ML,IV,Hématologique,Lymphome à cellules B,,NZAMT01,9002454
+ZANUBRUTINIB,BRUKINSA,PO,Hématologique,En monothérapie est indiqué pour le traitement de patients adultes atteints de leucémie lymphoïde chronique (LLC),,,
+ZONGERTINIB,ZONGERTINIB,PO,Bronchopulmonaire,Cancer bronchique non à petites cellules,,NZONG01,9003701
